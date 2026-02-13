@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": { "en": "Soeltan Medsos", "id": "Soeltan Medsos" },
+    "description": {
+      "en": "A comprehensive social media platform designed to empower digital interaction and community engagement. Built with robust performance and scalability in mind.",
+      "id": "Platform media sosial komprehensif yang dirancang untuk memberdayakan interaksi digital dan keterlibatan komunitas. Dibangun dengan fokus pada performa dan skalabilitas."
+    },
+    "technologies": "React, Node.js, Supabase, Tailwind CSS, JavaScript, AOS.js",
+    "github_url": "",
+    "live_url": "https://soeltanmedsos.web.id",
+    "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": { "en": "Refresh Breeze", "id": "Refresh Breeze" },
+    "description": {
+      "en": "An innovative digital ecosystem focusing on sustainability and fresh digital solutions. Delivering a high-quality experience with clean aesthetics.",
+      "id": "Ekosistem digital inovatif yang berfokus pada keberlanjutan dan solusi digital segar. Memberikan pengalaman berkualitas tinggi dengan estetika bersih."
+    },
+    "technologies": "React, Node.js, Supabase, Tailwind CSS, JavaScript, AOS.js",
+    "github_url": "",
+    "live_url": "https://refreshbreeze.web.id",
+    "image_url": "https://images.unsplash.com/photo-1463930640028-d7373f139580?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": { "en": "Upcoming Project", "id": "Proyek Mendatang" },
+    "description": {
+      "en": "A new ambitious project currently under development, set to redefine standards in its niche. Stay tuned for more updates on this exciting venture.",
+      "id": "Proyek ambisius baru yang sedang dikembangkan, siap mendefinisikan standar baru di bidangnya. Nantikan pembaruan lebih lanjut tentang venture menarik ini."
+    },
+    "technologies": "React, Node.js, Supabase, Tailwind CSS, JavaScript, AOS.js",
+    "github_url": "",
+    "live_url": "#",
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop"
+  }
+]
