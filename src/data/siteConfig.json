@@ -7,7 +7,7 @@
     },
     "bio": {
       "en": "Transforming your ideas into high-quality, high-performance websites. Specialized in building custom business solutions with 2.5 years of technical expertise.",
-      "id": "Ubah ide lo jadi website kece badai & performa ngebut. Spesialis bikin solusi bisnis custom, udah 2.5 tahun ngoding nih."
+      "id": "Sulap ide lo jadi web kece badai & ngebut parah. Spesialis bikin solusi bisnis custom, udah 2.5 tahun ngoding nih, senggol dong!"
     },
     "email": "ferdynm8@gmail.com",
     "whatsapp": "085765907580",
@@ -21,28 +21,28 @@
   },
   "services": [
     {
-      "title": { "en": "Affordable Pricing", "id": "Harga Anak Kos" },
-      "desc": { "en": "High-quality websites starting from just 200k IDR. Perfect for small businesses.", "id": "Web berkualitas mulai 200rb-an aja. Cocok bet buat UMKM & personal branding." }
+      "title": { "en": "Affordable Pricing", "id": "Harga Mahasiswa" },
+      "desc": { "en": "High-quality websites starting from just 200k IDR. Perfect for small businesses.", "id": "Web mantul mulai 200rb-an. Pas bet buat UMKM & branding diri sendiri. Murah tapi ga murahan cuy!" }
     },
     {
-      "title": { "en": "Fast Response", "id": "Fast Respon" },
-      "desc": { "en": "I value your time. Guaranteed fast communication and timely delivery.", "id": "Gak pake lama. Chat langsung bales, kerjain sat set wat wet." }
+      "title": { "en": "Fast Response", "id": "Gercep Abis" },
+      "desc": { "en": "I value your time. Guaranteed fast communication and timely delivery.", "id": "Sat set wat wet. Chat langsung bales, ngerjain ga pake lelet. Anti ghosting club." }
     },
     {
-      "title": { "en": "Unlimited Revisions", "id": "Revisi Sepuasnya" },
-      "desc": { "en": "I'll keep refining until your website perfectly matches your vision.", "id": "Revisi ampe lo seneng. Gas terus sampe sesuai ekspektasi!" }
+      "title": { "en": "Unlimited Revisions", "id": "Revisi Sampe Puas" },
+      "desc": { "en": "I'll keep refining until your website perfectly matches your vision.", "id": "Gas terus revisi sampe lo bilang 'NAH INI BARU MANTAP!'. Kita gass sampe jadi." }
     },
     {
-      "title": { "en": "Bonus Pages", "id": "Bonus Page" },
-      "desc": { "en": "Get 1-2 extra pages for free to enhance your website's content.", "id": "Dapet gratis tambahan 1-2 halaman biar konten web lo makin lengkap." }
+      "title": { "en": "Bonus Pages", "id": "Bonus Halaman" },
+      "desc": { "en": "Get 1-2 extra pages for free to enhance your website's content.", "id": "Gratis nambah 1-2 halaman biar web lo makin menyala abangku. Makin lengkap makin asik." }
     },
     {
-      "title": { "en": "Modern Features", "id": "Fitur Kekinian" },
-      "desc": { "en": "Equipped with state-of-the-art features and dynamic digital solutions.", "id": "Pake fitur-fitur jaman now & solusi digital yang dinamis abis." }
+      "title": { "en": "Free Hosting", "id": "Hosting Gratis" },
+      "desc": { "en": "Free hosting included so your website goes live immediately without extra costs.", "id": "Udah dapet gratis hosting cuy! Web lo langsung online tanpa pusing mikirin server. Hemat beut!" }
     },
     {
-      "title": { "en": "SEO Optimized", "id": "SEO Gacor" },
-      "desc": { "en": "Built to be Google-friendly and lightning fast on all devices.", "id": "Website disetting biar gampang ditemu di Google & ngebut di semua device." }
+      "title": { "en": "SEO Optimized", "id": "SEO Gacor Parah" },
+      "desc": { "en": "Built to be Google-friendly and lightning fast on all devices.", "id": "Settingan SEO tingkat dewa biar nangkring di page wan Google. Traffic auto deres!" }
     }
   ],
   "skills": [
@@ -56,32 +56,32 @@
   "ui": {
     "nav": {
       "home": { "en": "Home", "id": "Home" },
-      "about": { "en": "Services", "id": "Services" },
-      "projects": { "en": "Portfolio", "id": "Portfolio" },
+      "about": { "en": "Services", "id": "Layanan" },
+      "projects": { "en": "Portfolio", "id": "Portofolio" },
       "contact": { "en": "Order Now", "id": "Order Kuy" }
     },
     "buttons": {
-      "view_work": { "en": "View Portfolio", "id": "Cek Karya" },
-      "get_in_touch": { "en": "Order Website", "id": "Mau Bikin Web" },
-      "order_whatsapp": { "en": "Order via WhatsApp", "id": "Chat WA Aja" }
+      "view_work": { "en": "View Portfolio", "id": "Intip Karya" },
+      "get_in_touch": { "en": "Order Website", "id": "Bikin Web Gece" },
+      "order_whatsapp": { "en": "Order via WhatsApp", "id": "Gas Chat WA" }
     },
     "titles": {
-      "skills": { "en": "Technical Skills", "id": "Skill Dewa" },
-      "projects": { "en": "Latest Projects", "id": "Project Anyar" },
-      "contact": { "en": "Order Your Website", "id": "Order Web Lu Sekarang" },
-      "about_me": { "en": "Why Choose Me?", "id": "Kenapa Harus Gue?" },
-      "contact_info": { "en": "Direct Contact", "id": "Kontak Gue" },
-      "follow_me": { "en": "Follow Me", "id": "Follow Gue" },
-      "welcome": { "en": "Build Your Digital Presence", "id": "Bikin Brand Lu Makin Kece" }
+      "skills": { "en": "Technical Skills", "id": "Skill GG Geming" },
+      "projects": { "en": "Latest Projects", "id": "Project Terbaru Gue" },
+      "contact": { "en": "Order Your Website", "id": "Gas Order Sekarang" },
+      "about_me": { "en": "Why Choose Me?", "id": "Kenapa Mesti Gue?" },
+      "contact_info": { "en": "Direct Contact", "id": "Sapa Gue Disini" },
+      "follow_me": { "en": "Follow Me", "id": "Mutualan Yuk" },
+      "welcome": { "en": "Build Your Digital Presence", "id": "Upgrade Brand Lo Sekarang" }
     },
     "messages": {
-      "loading_projects": { "en": "Loading projects...", "id": "Bentar, loading..." },
-      "no_projects": { "en": "No projects found.", "id": "Yah, ga ada project nih." },
+      "loading_projects": { "en": "Loading projects...", "id": "Sabar, lagi loading..." },
+      "no_projects": { "en": "No projects found.", "id": "Waduh, belum ada project nih." },
       "cta_desc": { 
         "en": "Ready to take your business online? Contact me now to discuss your project.", 
-        "id": "Udah siap go online? Chat gue sekarng buat ngobrolin ide gokil lo." 
+        "id": "Udah siap go online? Chat gue sekarang buat ngobrolin ide liar lo, gasss!" 
       },
-      "explore_projects": { "en": "Check out my previous work", "id": "Nih liat hasil karya gue sebelumnya" }
+      "explore_projects": { "en": "Check out my previous work", "id": "Cekidot karya-karya gue sebelumnya:" }
     }
   }
 }

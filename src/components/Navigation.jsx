@@ -49,7 +49,7 @@ const Navigation = () => {
             onClick={(e) => scrollToSection(e, '#home')}
             className="text-2xl md:text-3xl font-bold gradient-text font-display cursor-pointer"
           >
-            {t(personal.role).split(' ')[0]} Portfolio
+            ferdy
           </a>
 
           {/* Desktop Menu */}

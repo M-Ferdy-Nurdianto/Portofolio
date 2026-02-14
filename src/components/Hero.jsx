@@ -23,11 +23,6 @@ const Hero = () => {
       <div className="container mx-auto px-4 relative z-10" data-aos="fade-up">
         <div className="flex flex-col md:flex-row items-center justify-between gap-12">
           <div className="flex-1 text-center md:text-left space-y-6">
-            <div className="inline-block px-4 py-1.5 glass-card border border-emerald-500/20 rounded-full" data-aos="fade-down" data-aos-delay="200">
-              <span className="text-emerald-400 font-medium tracking-wide text-xs md:text-sm uppercase">
-                {t(ui.messages.welcome)}
-              </span>
-            </div>
 
             <div className="space-y-2">
               <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-black tracking-tight font-display text-white">
