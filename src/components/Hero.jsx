@@ -100,7 +100,7 @@ const Hero = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-emerald-500 to-green-500 rounded-full blur-2xl opacity-40 animate-pulse"></div>
               <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-emerald-500/20 shadow-2xl animate-float">
                 <img
-                  src="/DSC01303.JPG"
+                  src="/profile.webp"
                   alt="Profile"
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
                 />
