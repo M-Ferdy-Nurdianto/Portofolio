@@ -3,11 +3,11 @@
     "name": "Mochammad Ferdy Nurdianto",
     "role": {
       "en": "Web Solutions & Digital Solutions",
-      "id": "Solusi Website & Digital"
+      "id": "Jasa Web & Solusi Digital"
     },
     "bio": {
       "en": "Transforming your ideas into high-quality, high-performance websites. Specialized in building custom business solutions with 2.5 years of technical expertise.",
-      "id": "Mengubah ide Anda menjadi situs web berkualitas tinggi dan berperforma tinggi. Spesialis dalam membangun solusi bisnis custom dengan 2,5 tahun keahlian teknis."
+      "id": "Ubah ide lo jadi website kece badai & performa ngebut. Spesialis bikin solusi bisnis custom, udah 2.5 tahun ngoding nih."
     },
     "email": "ferdynm8@gmail.com",
     "whatsapp": "085765907580",
@@ -21,28 +21,28 @@
   },
   "services": [
     {
-      "title": { "en": "Affordable Pricing", "id": "Harga Terjangkau" },
-      "desc": { "en": "High-quality websites starting from just 200k IDR. Perfect for small businesses.", "id": "Website berkualitas mulai dari 200rb saja. Cocok untuk UMKM dan personal branding." }
+      "title": { "en": "Affordable Pricing", "id": "Harga Anak Kos" },
+      "desc": { "en": "High-quality websites starting from just 200k IDR. Perfect for small businesses.", "id": "Web berkualitas mulai 200rb-an aja. Cocok bet buat UMKM & personal branding." }
     },
     {
-      "title": { "en": "Fast Response", "id": "Respon Cepat" },
-      "desc": { "en": "I value your time. Guaranteed fast communication and timely delivery.", "id": "Saya menghargai waktu Anda. Komunikasi lancar dan pengerjaan tepat waktu." }
+      "title": { "en": "Fast Response", "id": "Fast Respon" },
+      "desc": { "en": "I value your time. Guaranteed fast communication and timely delivery.", "id": "Gak pake lama. Chat langsung bales, kerjain sat set wat wet." }
     },
     {
-      "title": { "en": "Unlimited Revisions", "id": "Bebas Revisi" },
-      "desc": { "en": "I'll keep refining until your website perfectly matches your vision.", "id": "Bebas revisi berkali-kali sampai website benar-benar sesuai keinginan Anda." }
+      "title": { "en": "Unlimited Revisions", "id": "Revisi Sepuasnya" },
+      "desc": { "en": "I'll keep refining until your website perfectly matches your vision.", "id": "Revisi ampe lo seneng. Gas terus sampe sesuai ekspektasi!" }
     },
     {
-      "title": { "en": "Bonus Pages", "id": "Halaman Bonus" },
-      "desc": { "en": "Get 1-2 extra pages for free to enhance your website's content.", "id": "Gratis tambahan 1-2 halaman untuk menunjang konten dan informasi Anda." }
+      "title": { "en": "Bonus Pages", "id": "Bonus Page" },
+      "desc": { "en": "Get 1-2 extra pages for free to enhance your website's content.", "id": "Dapet gratis tambahan 1-2 halaman biar konten web lo makin lengkap." }
     },
     {
-      "title": { "en": "Modern Features", "id": "Fitur Canggih" },
-      "desc": { "en": "Equipped with state-of-the-art features and dynamic digital solutions.", "id": "Dilengkapi dengan fitur-fitur modern dan solusi digital yang dinamis." }
+      "title": { "en": "Modern Features", "id": "Fitur Kekinian" },
+      "desc": { "en": "Equipped with state-of-the-art features and dynamic digital solutions.", "id": "Pake fitur-fitur jaman now & solusi digital yang dinamis abis." }
     },
     {
-      "title": { "en": "SEO Optimized", "id": "Optimasi SEO" },
-      "desc": { "en": "Built to be Google-friendly and lightning fast on all devices.", "id": "Website didesain agar mudah ditemukan di Google dan sangat cepat." }
+      "title": { "en": "SEO Optimized", "id": "SEO Gacor" },
+      "desc": { "en": "Built to be Google-friendly and lightning fast on all devices.", "id": "Website disetting biar gampang ditemu di Google & ngebut di semua device." }
     }
   ],
   "skills": [
@@ -55,33 +55,33 @@
   ],
   "ui": {
     "nav": {
-      "home": { "en": "Home", "id": "Beranda" },
-      "about": { "en": "Services", "id": "Layanan" },
-      "projects": { "en": "Portfolio", "id": "Portofolio" },
-      "contact": { "en": "Order Now", "id": "Pesan Sekarang" }
+      "home": { "en": "Home", "id": "Home" },
+      "about": { "en": "Services", "id": "Services" },
+      "projects": { "en": "Portfolio", "id": "Portfolio" },
+      "contact": { "en": "Order Now", "id": "Order Kuy" }
     },
     "buttons": {
-      "view_work": { "en": "View Portfolio", "id": "Lihat Portofolio" },
-      "get_in_touch": { "en": "Order Website", "id": "Pesan Website" },
-      "order_whatsapp": { "en": "Order via WhatsApp", "id": "Pesan lewat WhatsApp" }
+      "view_work": { "en": "View Portfolio", "id": "Cek Karya" },
+      "get_in_touch": { "en": "Order Website", "id": "Mau Bikin Web" },
+      "order_whatsapp": { "en": "Order via WhatsApp", "id": "Chat WA Aja" }
     },
     "titles": {
-      "skills": { "en": "Technical Skills", "id": "Keahlian Teknis" },
-      "projects": { "en": "Latest Projects", "id": "Proyek Terbaru" },
-      "contact": { "en": "Order Your Website", "id": "Pesan Website Anda" },
-      "about_me": { "en": "Why Choose Me?", "id": "Mengapa Pilih Saya?" },
-      "contact_info": { "en": "Direct Contact", "id": "Kontak Langsung" },
-      "follow_me": { "en": "Follow Me", "id": "Ikuti Saya" },
-      "welcome": { "en": "Build Your Digital Presence", "id": "Bangun Kehadiran Digital Anda" }
+      "skills": { "en": "Technical Skills", "id": "Skill Dewa" },
+      "projects": { "en": "Latest Projects", "id": "Project Anyar" },
+      "contact": { "en": "Order Your Website", "id": "Order Web Lu Sekarang" },
+      "about_me": { "en": "Why Choose Me?", "id": "Kenapa Harus Gue?" },
+      "contact_info": { "en": "Direct Contact", "id": "Kontak Gue" },
+      "follow_me": { "en": "Follow Me", "id": "Follow Gue" },
+      "welcome": { "en": "Build Your Digital Presence", "id": "Bikin Brand Lu Makin Kece" }
     },
     "messages": {
-      "loading_projects": { "en": "Loading projects...", "id": "Memuat proyek..." },
-      "no_projects": { "en": "No projects found.", "id": "Proyek tidak ditemukan." },
+      "loading_projects": { "en": "Loading projects...", "id": "Bentar, loading..." },
+      "no_projects": { "en": "No projects found.", "id": "Yah, ga ada project nih." },
       "cta_desc": { 
         "en": "Ready to take your business online? Contact me now to discuss your project.", 
-        "id": "Siap membuat bisnis Anda online? Hubungi saya sekarang untuk mendiskusikan proyek Anda." 
+        "id": "Udah siap go online? Chat gue sekarng buat ngobrolin ide gokil lo." 
       },
-      "explore_projects": { "en": "Check out my previous work", "id": "Lihat karya-karya saya sebelumnya" }
+      "explore_projects": { "en": "Check out my previous work", "id": "Nih liat hasil karya gue sebelumnya" }
     }
   }
 }
