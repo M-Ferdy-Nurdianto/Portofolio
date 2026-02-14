@@ -7,7 +7,7 @@
     },
     "bio": {
       "en": "Transforming your ideas into high-quality, high-performance websites. Specialized in building custom business solutions with 2.5 years of technical expertise.",
-      "id": "Sulap ide lo jadi web kece badai & ngebut parah. Spesialis bikin solusi bisnis custom, udah 2.5 tahun ngoding nih, senggol dong!"
+      "id": "Bantu bisnis lo naik level lewat website yang gak cuma cakep, tapi juga kenceng. Spesialis solusi custom dengan pengalaman 2.5 tahun di industri digital, siap eksekusi ide lo jadi nyata!"
     },
     "email": "ferdynm8@gmail.com",
     "whatsapp": "085765907580",
@@ -91,6 +91,27 @@
       "issuer": "Dicoding Indonesia",
       "date": "2024",
       "image": "https://media.licdn.com/dms/image/D562DAQH-0_example/profile-treasury-image-shrink_800_800/0/1705646123458?e=1710979200&v=beta&t=example",
+      "link": "#"
+    },
+    {
+      "name": "Sertifikat Program Imphnen",
+      "issuer": "Group Imphnen",
+      "date": "2024",
+      "image": "/certificates/imphnen.webp",
+      "link": "#"
+    },
+    {
+      "name": "Sertifikat Kelulusan Magang",
+      "issuer": "Pixel Studio",
+      "date": "2024",
+      "image": "/certificates/pixel studio.webp",
+      "link": "#"
+    },
+    {
+      "name": "Semi Finalist JHIC 2025",
+      "issuer": "Junior High Innovation Championship",
+      "date": "2025",
+      "image": "/certificates/jhic semi final.webp",
       "link": "#"
     }
   ],
