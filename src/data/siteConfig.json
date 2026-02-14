@@ -21,37 +21,92 @@
   },
   "services": [
     {
+      "title": { "en": "Personal Branding", "id": "Web Portofolio Kece" },
+      "desc": { "en": "Showcase your skills & work in style. Make HR or clients fall in love at first sight.", "id": "Pamerin skill & karya lo dengan gaya! Bikin HR atau klien langsung jatuh cinta pandangan pertama." }
+    },
+    {
+      "title": { "en": "Business Landing Page", "id": "Landing Page Bisnis" },
+      "desc": { "en": "Convert visitors into buyers. Professional design to boost trust & business conversions.", "id": "Sulap pengunjung jadi pembeli. Desain profesional buat naikin trust & konversi bisnis lo." }
+    },
+    {
+      "title": { "en": "Booking System", "id": "Sistem Booking & Tiket" },
+      "desc": { "en": "Sell event tickets or cheki slots fully automatically. No more manual recap hassle!", "id": "Jualan tiket event atau slot cheki jadi full otomatis. Gak perlu ribet rekap manual lagi!" }
+    },
+    {
+      "title": { "en": "Special Occasion", "id": "Web Ucapan Spesial" },
+      "desc": { "en": "Make them melt on birthdays or valentine's. Interactive web that will be remembered forever.", "id": "Bikin doi meleleh pas ultah atau valentine. Web interaktif yang bakal dikenang selamanya." }
+    },
+    {
+      "title": { "en": "Digital Catalog", "id": "Katalog & Menu Digital" },
+      "desc": { "en": "Display your products without limits. Click to order, practical for non-shipping businesses.", "id": "Pajang produk atau menu lo tanpa batas. Order tinggal klik, praktis buat bisnis sat-set." }
+    },
+    {
+      "title": { "en": "Community Portal", "id": "Portal Komunitas" },
+      "desc": { "en": "Online gathering place for your fanbase or community. Complete features, simpler bonding!", "id": "Wadah ngumpul online buat fanbase atau komunitas lo. Fitur lengkap, makin solid!" }
+    }
+  ],
+  "benefits": [
+    {
       "title": { "en": "Affordable Pricing", "id": "Harga Mahasiswa" },
-      "desc": { "en": "High-quality websites starting from just 200k IDR. Perfect for small businesses.", "id": "Web mantul mulai 200rb-an. Pas bet buat UMKM & branding diri sendiri. Murah tapi ga murahan cuy!" }
+      "desc": { "en": "High-quality websites starting from just 200k IDR.", "id": "Web mantul mulai 200rb-an. Pas bet buat kantong pelajar & UMKM." }
     },
     {
       "title": { "en": "Fast Response", "id": "Gercep Abis" },
-      "desc": { "en": "I value your time. Guaranteed fast communication and timely delivery.", "id": "Sat set wat wet. Chat langsung bales, ngerjain ga pake lelet. Anti ghosting club." }
+      "desc": { "en": "Guaranteed fast communication and timely delivery.", "id": "Chat langsung bales, ngerjain ga pake lelet. Anti ghosting club!" }
     },
     {
       "title": { "en": "Unlimited Revisions", "id": "Revisi Sampe Puas" },
-      "desc": { "en": "I'll keep refining until your website perfectly matches your vision.", "id": "Gas terus revisi sampe lo bilang 'NAH INI BARU MANTAP!'. Kita gass sampe jadi." }
+      "desc": { "en": "Refining until it matches your vision perfectly.", "id": "Gas terus revisi sampe lo bilang 'NAH INI BARU MANTAP!'." }
     },
     {
-      "title": { "en": "Bonus Pages", "id": "Bonus Halaman" },
-      "desc": { "en": "Get 1-2 extra pages for free to enhance your website's content.", "id": "Gratis nambah 1-2 halaman biar web lo makin menyala abangku. Makin lengkap makin asik." }
+      "title": { "en": "Bonus Pages & Features", "id": "Bonus Halaman & Fitur Melimpah" },
+      "desc": { "en": "Get extra pages and abundant features for free.", "id": "Gratis nambah halaman plus fitur seabrek biar web lo makin menyala abangku!" }
     },
     {
       "title": { "en": "Free Hosting", "id": "Hosting Gratis" },
-      "desc": { "en": "Free hosting included so your website goes live immediately without extra costs.", "id": "Udah dapet gratis hosting cuy! Web lo langsung online tanpa pusing mikirin server. Hemat beut!" }
+      "desc": { "en": "Free hosting included, live immediately.", "id": "Udah dapet gratis hosting! Web langsung online tanpa bayar server lagi." }
     },
     {
       "title": { "en": "SEO Optimized", "id": "SEO Gacor Parah" },
-      "desc": { "en": "Built to be Google-friendly and lightning fast on all devices.", "id": "Settingan SEO tingkat dewa biar nangkring di page wan Google. Traffic auto deres!" }
+      "desc": { "en": "Google-friendly and lightning fast.", "id": "Settingan SEO tingkat dewa biar nangkring di page one Google." }
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Belajar Dasar Pemrograman Web",
+      "issuer": "Dicoding Indonesia",
+      "date": "2023",
+      "image": "https://media.licdn.com/dms/image/D562DAQF-8_example/profile-treasury-image-shrink_800_800/0/1705646123456?e=1710979200&v=beta&t=example",
+      "link": "#"
+    },
+    {
+      "name": "Belajar Membuat Front-End Web untuk Pemula",
+      "issuer": "Dicoding Indonesia",
+      "date": "2023",
+      "image": "https://media.licdn.com/dms/image/D562DAQG-9_example/profile-treasury-image-shrink_800_800/0/1705646123457?e=1710979200&v=beta&t=example",
+      "link": "#"
+    },
+    {
+      "name": "Belajar Dasar Pemrograman JavaScript",
+      "issuer": "Dicoding Indonesia",
+      "date": "2024",
+      "image": "https://media.licdn.com/dms/image/D562DAQH-0_example/profile-treasury-image-shrink_800_800/0/1705646123458?e=1710979200&v=beta&t=example",
+      "link": "#"
     }
   ],
   "skills": [
+    {"name": "HTML", "level": 95, "category": "Frontend"},
+    {"name": "CSS", "level": 90, "category": "Frontend"},
     {"name": "JavaScript", "level": 85, "category": "Language"},
-    {"name": "React", "level": 80, "category": "Frontend"},
-    {"name": "Tailwind CSS", "level": 85, "category": "Frontend"},
-    {"name": "Node.js", "level": 70, "category": "Backend"},
-    {"name": "MySQL", "level": 65, "category": "Database"},
-    {"name": "Python", "level": 60, "category": "Language"}
+    {"name": "React", "level": 85, "category": "Frontend"},
+    {"name": "Tailwind CSS", "level": 90, "category": "Frontend"},
+    {"name": "Node.js", "level": 75, "category": "Backend"},
+    {"name": "Supabase", "level": 80, "category": "Backend"},
+    {"name": "Midtrans", "level": 80, "category": "Payment"},
+    {"name": "Figma", "level": 85, "category": "Design"},
+    {"name": "Canva", "level": 95, "category": "Design"},
+    {"name": "PHP", "level": 45, "category": "Backend"},
+    {"name": "Laravel", "level": 40, "category": "Backend"}
   ],
   "ui": {
     "nav": {
@@ -66,10 +121,11 @@
       "order_whatsapp": { "en": "Order via WhatsApp", "id": "Gas Chat WA" }
     },
     "titles": {
-      "skills": { "en": "Technical Skills", "id": "Skill GG Geming" },
+      "skills": { "en": "Expertise", "id": "Ahli" },
       "projects": { "en": "Latest Projects", "id": "Project Terbaru Gue" },
       "contact": { "en": "Order Your Website", "id": "Gas Order Sekarang" },
-      "about_me": { "en": "Why Choose Me?", "id": "Kenapa Mesti Gue?" },
+      "services_title": { "en": "My Current Expertise", "id": "Keahlian Saya Saat Ini" },
+      "benefits_title": { "en": "Why Choose Me?", "id": "Kenapa Harus Milih Saya?" },
       "contact_info": { "en": "Direct Contact", "id": "Sapa Gue Disini" },
       "follow_me": { "en": "Follow Me", "id": "Mutualan Yuk" },
       "welcome": { "en": "Build Your Digital Presence", "id": "Upgrade Brand Lo Sekarang" }

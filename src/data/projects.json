@@ -3,8 +3,8 @@
     "id": 1,
     "title": { "en": "Soeltan Medsos", "id": "Soeltan Medsos" },
     "description": {
-      "en": "A comprehensive social media platform designed to empower digital interaction and community engagement. Built with robust performance and scalability in mind.",
-      "id": "Platform media sosial komprehensif yang dirancang untuk memberdayakan interaksi digital dan keterlibatan komunitas. Dibangun dengan fokus pada performa dan skalabilitas."
+      "en": "A trusted SMM platform to skyrocket your social media engagement. Get followers, likes, and views instantly and safely.",
+      "id": "Platform SMM terpercaya buat lo yang mau panjat sosial! Nambah followers, likes, views aman & instan. Solusi rahasia biar akun sosmed lo makin hits."
     },
     "technologies": "React, Node.js, Supabase, Tailwind CSS, JavaScript, AOS.js",
     "github_url": "",
@@ -15,8 +15,8 @@
     "id": 2,
     "title": { "en": "Refresh Breeze", "id": "Refresh Breeze" },
     "description": {
-      "en": "An innovative digital ecosystem focusing on sustainability and fresh digital solutions. Delivering a high-quality experience with clean aesthetics.",
-      "id": "Ekosistem digital inovatif yang berfokus pada keberlanjutan dan solusi digital segar. Memberikan pengalaman berkualitas tinggi dengan estetika bersih."
+      "en": "Official website for the Chika Idol Group from Tulungagung. I serve as the web development staff, ensuring fans stay updated.",
+      "id": "Official website buat Chika Idol Group asal Tulungagung. Di sini gue berperan sebagai staff pengembang web-nya, mastiin fans bisa update info idola mereka dengan lancar jaya."
     },
     "technologies": "React, Node.js, Supabase, Tailwind CSS, JavaScript, AOS.js",
     "github_url": "",
@@ -25,10 +25,10 @@
   },
   {
     "id": 3,
-    "title": { "en": "Upcoming Project", "id": "Proyek Mendatang" },
+    "title": { "en": "Zenith.ra", "id": "Zenith.ra" },
     "description": {
-      "en": "A new ambitious project currently under development, set to redefine standards in its niche. Stay tuned for more updates on this exciting venture.",
-      "id": "Proyek ambisius baru yang sedang dikembangkan, siap mendefinisikan standar baru di bidangnya. Nantikan pembaruan lebih lanjut tentang venture menarik ini."
+      "en": "A local fashion brand from Mojokerto selling exclusive t-shirts and tote bags. I am proud to be one of the owners of this venture.",
+      "id": "Brand fashion lokal kebanggaan Mojokerto! Jualan kaos & totebag desain eksklusif. Gue sendiri salah satu owner-nya lho, jadi kualitas desain & bahan dijamin gak kaleng-kaleng."
     },
     "technologies": "React, Node.js, Supabase, Tailwind CSS, JavaScript, AOS.js",
     "github_url": "",

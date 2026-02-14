@@ -20,19 +20,25 @@ const Hero = () => {
         <div className="absolute top-1/2 left-1/2 w-96 h-96 bg-teal-500/20 rounded-full blur-3xl animate-float" style={{ animationDelay: '4s' }}></div>
       </div>
 
-      <div className="container mx-auto px-4 relative z-10" data-aos="fade-up">
-        <div className="flex flex-col md:flex-row items-center justify-between gap-12">
+      <div className="container mx-auto px-4 relative z-10">
+        <div className="flex flex-col-reverse md:flex-row items-center justify-between gap-12">
           <div className="flex-1 text-center md:text-left space-y-6">
 
             <div className="space-y-2">
-              <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-black tracking-tight font-display text-white">
+              <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-black tracking-tight font-display text-white">
                 <span className="opacity-90 block leading-tight">{personal.name}</span>
                 <div className="gradient-text h-[1.4em] leading-tight flex items-center justify-center md:justify-start">
                   <Typewriter
                     options={{
-                      strings: [t(personal.role), t({ en: "Web Solutions", id: "Solusi Website" }), t({ en: "Digital Expert", id: "Pakar Digital" })],
+                      strings: [
+                        t({ en: "Want a Cool Web?", id: "Mau Bikin Web?" }), 
+                        t({ en: "Need Fast Dev?", id: "Butuh Dev Gercep?" }),
+                        t({ en: "Order Now!", id: "Gass Order!" })
+                      ],
                       autoStart: true,
                       loop: true,
+                      delay: 50,
+                      deleteSpeed: 30,
                       wrapperClassName: "gradient-text",
                       cursorClassName: "text-emerald-500"
                     }}
@@ -89,14 +95,14 @@ const Hero = () => {
           </div>
 
           {/* Profile Image */}
-          <div className="flex-1 flex justify-center" data-aos="zoom-in" data-aos-delay="400">
+          <div className="flex-1 flex justify-center">
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-emerald-500 to-green-500 rounded-full blur-2xl opacity-40 animate-pulse"></div>
               <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-emerald-500/20 shadow-2xl animate-float">
                 <img
-                  src="/profile.png"
+                  src="/DSC01303.JPG"
                   alt="Profile"
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
                 />
               </div>
             </div>
