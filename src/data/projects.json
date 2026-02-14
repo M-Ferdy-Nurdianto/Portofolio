@@ -28,7 +28,7 @@
     "title": { "en": "Zenith.ra", "id": "Zenith.ra" },
     "description": {
       "en": "A local fashion brand from Mojokerto selling exclusive t-shirts and tote bags. I am proud to be one of the owners of this venture.",
-      "id": "Brand fashion lokal kebanggaan Mojokerto! Jualan kaos & totebag desain eksklusif. Gue sendiri salah satu owner-nya lho, jadi kualitas desain & bahan dijamin gak kaleng-kaleng."
+      "id": "Brand fashion lokal dari Mojokerto yang baru mulai merintis, fokus ke kaos dan totebag desain eksklusif. Sebagai salah satu owner, gue selalu mastiin tiap produk punya kualitas bahan dan detail yang maksimal buat kalian."
     },
     "technologies": "React, Node.js, Supabase, Tailwind CSS, JavaScript, AOS.js",
     "github_url": "",
