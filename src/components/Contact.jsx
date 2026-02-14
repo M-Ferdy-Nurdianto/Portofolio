@@ -57,7 +57,7 @@ const Contact = () => {
                     <p className="text-lg md:text-xl text-gray-400 leading-relaxed font-light">
                        {t({ 
                         en: "Don't just go online. Build a brand that converts! Get free hosting & professional design. Consultation is 100% free.", 
-                        id: "Gak cuma sekadar online, tapi bikin brand lo makin eksis & cuan! Konsultasi gratis, gass amankan slot mumpung promo hosting gratis masih ada." 
+                        id: "Membangun kehadiran brand Anda lebih luas. Konsultasi gratis, silakan amankan slot Anda selagi promo hosting masih tersedia." 
                        })}
                     </p>
                 </div>

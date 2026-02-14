@@ -18,7 +18,7 @@ const Certificates = () => {
             {t({ en: "Certifications", id: "Sertifikat" })}
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-             {t({ en: "Validating my skills and expertise.", id: "Bukti keahlian dan kompetensi gue." })}
+             {t({ en: "Validating my skills and expertise.", id: "Bukti keahlian dan kompetensi saya." })}
           </p>
         </div>
 
