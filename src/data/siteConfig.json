@@ -73,27 +73,6 @@
   ],
   "certificates": [
     {
-      "name": "Belajar Dasar Pemrograman Web",
-      "issuer": "Dicoding Indonesia",
-      "date": "2023",
-      "image": "https://media.licdn.com/dms/image/D562DAQF-8_example/profile-treasury-image-shrink_800_800/0/1705646123456?e=1710979200&v=beta&t=example",
-      "link": "#"
-    },
-    {
-      "name": "Belajar Membuat Front-End Web untuk Pemula",
-      "issuer": "Dicoding Indonesia",
-      "date": "2023",
-      "image": "https://media.licdn.com/dms/image/D562DAQG-9_example/profile-treasury-image-shrink_800_800/0/1705646123457?e=1710979200&v=beta&t=example",
-      "link": "#"
-    },
-    {
-      "name": "Belajar Dasar Pemrograman JavaScript",
-      "issuer": "Dicoding Indonesia",
-      "date": "2024",
-      "image": "https://media.licdn.com/dms/image/D562DAQH-0_example/profile-treasury-image-shrink_800_800/0/1705646123458?e=1710979200&v=beta&t=example",
-      "link": "#"
-    },
-    {
       "name": "Sertifikat Program Imphnen",
       "issuer": "Group Imphnen",
       "date": "2024",
