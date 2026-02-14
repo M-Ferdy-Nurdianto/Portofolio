@@ -7,7 +7,7 @@
     },
     "bio": {
       "en": "Transforming your ideas into high-quality, high-performance websites. Specialized in building custom business solutions with 2.5 years of technical expertise.",
-      "id": "Bantu bisnis lo naik level lewat website yang gak cuma cakep, tapi juga kenceng. Spesialis solusi custom dengan pengalaman 2.5 tahun di industri digital, siap eksekusi ide lo jadi nyata!"
+      "id": "Membantu bisnis Anda berkembang melalui website berkualitas tinggi dan berperforma optimal. Spesialis solusi kustom dengan pengalaman 2.5 tahun di industri digital, siap merealisasikan ide Anda menjadi nyata."
     },
     "email": "ferdynm8@gmail.com",
     "whatsapp": "085765907580",
@@ -21,54 +21,54 @@
   },
   "services": [
     {
-      "title": { "en": "Personal Branding", "id": "Web Portofolio Kece" },
-      "desc": { "en": "Showcase your skills & work in style. Make HR or clients fall in love at first sight.", "id": "Pamerin skill & karya lo dengan gaya! Bikin HR atau klien langsung jatuh cinta pandangan pertama." }
+      "title": { "en": "Personal Branding", "id": "Portofolio Profesional" },
+      "desc": { "en": "Showcase your skills & work in style. Make HR or clients fall in love at first sight.", "id": "Tampilkan keahlian dan karya Anda dengan gaya. Membangun kepercayaan klien atau HR sejak pandangan pertama." }
     },
     {
       "title": { "en": "Business Landing Page", "id": "Landing Page Bisnis" },
-      "desc": { "en": "Convert visitors into buyers. Professional design to boost trust & business conversions.", "id": "Sulap pengunjung jadi pembeli. Desain profesional buat naikin trust & konversi bisnis lo." }
+      "desc": { "en": "Convert visitors into buyers. Professional design to boost trust & business conversions.", "id": "Mengubah pengunjung menjadi pelanggan. Desain profesional untuk meningkatkan kepercayaan dan konversi bisnis Anda." }
     },
     {
-      "title": { "en": "Booking System", "id": "Sistem Booking & Tiket" },
-      "desc": { "en": "Sell event tickets or cheki slots fully automatically. No more manual recap hassle!", "id": "Jualan tiket event atau slot cheki jadi full otomatis. Gak perlu ribet rekap manual lagi!" }
+      "title": { "en": "Booking System", "id": "Sistem Reservasi & Tiket" },
+      "desc": { "en": "Sell event tickets or cheki slots fully automatically. No more manual recap hassle!", "id": "Penjualan tiket acara atau slot reservasi secara otomatis. Memudahkan proses manajemen tanpa kendala rekap manual." }
     },
     {
-      "title": { "en": "Special Occasion", "id": "Web Ucapan Spesial" },
-      "desc": { "en": "Make them melt on birthdays or valentine's. Interactive web that will be remembered forever.", "id": "Bikin doi meleleh pas ultah atau valentine. Web interaktif yang bakal dikenang selamanya." }
+      "title": { "en": "Special Occasion", "id": "Website Ucapan Spesial" },
+      "desc": { "en": "Make them melt on birthdays or valentine's. Interactive web that will be remembered forever.", "id": "Memberikan kesan spesial pada momen ulang tahun atau perayaan lainnya. Website interaktif yang akan selalu dikenang." }
     },
     {
       "title": { "en": "Digital Catalog", "id": "Katalog & Menu Digital" },
-      "desc": { "en": "Display your products without limits. Click to order, practical for non-shipping businesses.", "id": "Pajang produk atau menu lo tanpa batas. Order tinggal klik, praktis buat bisnis sat-set." }
+      "desc": { "en": "Display your products without limits. Click to order, practical for non-shipping businesses.", "id": "Menampilkan produk atau menu tanpa batasan. Pemesanan melalui klik, praktis untuk berbagai jenis usaha Anda." }
     },
     {
       "title": { "en": "Community Portal", "id": "Portal Komunitas" },
-      "desc": { "en": "Online gathering place for your fanbase or community. Complete features, simpler bonding!", "id": "Wadah ngumpul online buat fanbase atau komunitas lo. Fitur lengkap, makin solid!" }
+      "desc": { "en": "Online gathering place for your fanbase or community. Complete features, simpler bonding!", "id": "Wadah berkumpul online bagi penggemar atau komunitas Anda. Fitur lengkap untuk mempererat hubungan komunitas." }
     }
   ],
   "benefits": [
     {
-      "title": { "en": "Affordable Pricing", "id": "Harga Mahasiswa" },
-      "desc": { "en": "High-quality websites starting from just 200k IDR.", "id": "Web mantul mulai 200rb-an. Pas bet buat kantong pelajar & UMKM." }
+      "title": { "en": "Affordable Pricing", "id": "Harga Kompetitif" },
+      "desc": { "en": "High-quality websites starting from just 200k IDR.", "id": "Website berkualitas dengan harga mulai dari 200rb-an. Pilihan tepat untuk pelajar dan UMKM." }
     },
     {
-      "title": { "en": "Fast Response", "id": "Gercep Abis" },
-      "desc": { "en": "Guaranteed fast communication and timely delivery.", "id": "Chat langsung bales, ngerjain ga pake lelet. Anti ghosting club!" }
+      "title": { "en": "Fast Response", "id": "Respons Cepat" },
+      "desc": { "en": "Guaranteed fast communication and timely delivery.", "id": "Layanan komunikasi responsif dan pengerjaan tepat waktu demi kepuasan Anda." }
     },
     {
-      "title": { "en": "Unlimited Revisions", "id": "Revisi Sampe Puas" },
-      "desc": { "en": "Refining until it matches your vision perfectly.", "id": "Gas terus revisi sampe lo bilang 'NAH INI BARU MANTAP!'." }
+      "title": { "en": "Unlimited Revisions", "id": "Revisi Hingga Sesuai" },
+      "desc": { "en": "Refining until it matches your vision perfectly.", "id": "Kami memberikan layanan revisi hingga hasil akhir sesuai dengan visi dan keinginan Anda." }
     },
     {
-      "title": { "en": "Bonus Pages & Features", "id": "Bonus Halaman & Fitur Melimpah" },
-      "desc": { "en": "Get extra pages and abundant features for free.", "id": "Gratis nambah halaman plus fitur seabrek biar web lo makin menyala abangku!" }
+      "title": { "en": "Bonus Pages & Features", "id": "Bonus Halaman & Fitur Lengkap" },
+      "desc": { "en": "Get extra pages and abundant features for free.", "id": "Dapatkan tambahan halaman dan fitur pendukung secara gratis untuk mengoptimalkan website Anda." }
     },
     {
       "title": { "en": "Free Hosting", "id": "Hosting Gratis" },
-      "desc": { "en": "Free hosting included, live immediately.", "id": "Udah dapet gratis hosting! Web langsung online tanpa bayar server lagi." }
+      "desc": { "en": "Free hosting included, live immediately.", "id": "Layanan sudah termasuk hosting gratis, sehingga website Anda dapat segera diakses secara publik." }
     },
     {
-      "title": { "en": "SEO Optimized", "id": "SEO Gacor Parah" },
-      "desc": { "en": "Google-friendly and lightning fast.", "id": "Settingan SEO tingkat dewa biar nangkring di page one Google." }
+      "title": { "en": "SEO Optimized", "id": "Optimasi SEO" },
+      "desc": { "en": "Google-friendly and lightning fast.", "id": "Optimasi SEO tingkat lanjut untuk membantu website Anda berada di peringkat teratas pencarian Google." }
     }
   ],
   "certificates": [
@@ -110,31 +110,31 @@
       "home": { "en": "Home", "id": "Home" },
       "about": { "en": "Services", "id": "Layanan" },
       "projects": { "en": "Portfolio", "id": "Portofolio" },
-      "contact": { "en": "Order Now", "id": "Order Kuy" }
+      "contact": { "en": "Order Now", "id": "Pesan Sekarang" }
     },
     "buttons": {
-      "view_work": { "en": "View Portfolio", "id": "Intip Karya" },
-      "get_in_touch": { "en": "Order Website", "id": "Bikin Web Gece" },
-      "order_whatsapp": { "en": "Order via WhatsApp", "id": "Gas Chat WA" }
+      "view_work": { "en": "View Portfolio", "id": "Lihat Karya" },
+      "get_in_touch": { "en": "Order Website", "id": "Pesan Website" },
+      "order_whatsapp": { "en": "Order via WhatsApp", "id": "Hubungi via WhatsApp" }
     },
     "titles": {
       "skills": { "en": "Expertise", "id": "Ahli" },
-      "projects": { "en": "Latest Projects", "id": "Project Terbaru Gue" },
-      "contact": { "en": "Order Your Website", "id": "Gas Order Sekarang" },
-      "services_title": { "en": "My Current Expertise", "id": "Keahlian Gue Saat Ini" },
-      "benefits_title": { "en": "Why Choose Me?", "id": "Kenapa Harus Milih Gue?" },
-      "contact_info": { "en": "Direct Contact", "id": "Sapa Gue Disini" },
-      "follow_me": { "en": "Follow Me", "id": "Mutualan Yuk" },
-      "welcome": { "en": "Build Your Digital Presence", "id": "Upgrade Brand Lo Sekarang" }
+      "projects": { "en": "Latest Projects", "id": "Proyek Terbaru" },
+      "contact": { "en": "Order Your Website", "id": "Pesan Website Sekarang" },
+      "services_title": { "en": "My Current Expertise", "id": "Keahlian Saat Ini" },
+      "benefits_title": { "en": "Why Choose Me?", "id": "Mengapa Memilih Saya?" },
+      "contact_info": { "en": "Direct Contact", "id": "Kontak Langsung" },
+      "follow_me": { "en": "Follow Me", "id": "Hubungi Saya" },
+      "welcome": { "en": "Build Your Digital Presence", "id": "Bangun Kehadiran Digital Anda" }
     },
     "messages": {
       "loading_projects": { "en": "Loading projects...", "id": "Sabar, lagi loading..." },
       "no_projects": { "en": "No projects found.", "id": "Waduh, belum ada project nih." },
       "cta_desc": { 
         "en": "Ready to take your business online? Contact me now to discuss your project.", 
-        "id": "Udah siap go online? Chat gue sekarang buat ngobrolin ide liar lo, gasss!" 
+        "id": "Siap untuk mengembangkan bisnis Anda secara online? Hubungi saya sekarang untuk mendiskusikan proyek Anda." 
       },
-      "explore_projects": { "en": "Check out my previous work", "id": "Cekidot karya-karya gue sebelumnya:" }
+      "explore_projects": { "en": "Check out my previous work", "id": "Lihat karya-karya kami sebelumnya:" }
     }
   }
 }
