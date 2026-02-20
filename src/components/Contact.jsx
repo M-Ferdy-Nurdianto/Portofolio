@@ -43,21 +43,21 @@ const Contact = () => {
                 <div className="inline-flex items-center gap-2 px-4 py-1.5 bg-emerald-500/20 rounded-full border border-emerald-500/30 animate-pulse">
                     <span className="w-2 h-2 bg-emerald-400 rounded-full"></span>
                     <span className="text-emerald-300 font-bold uppercase tracking-[0.2em] text-[10px] md:text-xs">
-                        {lang === 'en' ? 'Limited Slot Available' : 'Slot Terbatas, Gercep!'}
+                        {lang === 'en' ? 'Limited Slot Available' : 'Slot Terbatas'}
                     </span>
                 </div>
 
                 <div className="space-y-4 max-w-3xl">
                     <h2 className="text-4xl md:text-6xl font-black text-white font-display leading-[1.1] tracking-tight">
                         {t({ 
-                          en: "Want a Website that Actually Sells? 🔥", 
-                          id: "Mau Web-mu Menyala Abangku? ⚡" 
+                          en: "Ready to Scale Your Business Digitally? 🚀", 
+                          id: "Siap Naik Kelas ke Dunia Digital? 🚀" 
                         })}
                     </h2>
                     <p className="text-lg md:text-xl text-gray-400 leading-relaxed font-light">
                        {t({ 
-                        en: "Don't just go online. Build a brand that converts! Get free hosting & professional design. Consultation is 100% free.", 
-                        id: "Membangun kehadiran brand Anda lebih luas. Konsultasi gratis, silakan amankan slot Anda selagi promo hosting masih tersedia." 
+                        en: "Don't just be online, be outstanding. I build digital assets that drive results. Get premium design with free hosting today.", 
+                        id: "Jangan biarkan brand Anda tenggelam. Hadirkan website yang tidak hanya eksis, tapi juga menghasilkan. Konsultasi strategis, 100% gratis." 
                        })}
                     </p>
                 </div>
@@ -70,7 +70,7 @@ const Contact = () => {
                         className="group/wa relative inline-flex items-center gap-3 px-10 py-5 bg-emerald-500 text-white rounded-2xl font-black text-lg md:text-xl hover:bg-emerald-400 transition-all duration-300 hover:scale-105 hover:shadow-[0_0_30px_rgba(16,185,129,0.6)]"
                     >
                         <WhatsappIcon className="text-2xl group-hover/wa:rotate-12 transition-transform" />
-                        {t({ en: "Secure Your Slot now!", id: "Amankan Slot via WA" })}
+                        {t({ en: "Claim Your Free Consultation", id: "Ambil Slot Konsultasi Gratis" })}
                         
                         {/* Decorative glow on button */}
                         <div className="absolute inset-0 bg-white/20 rounded-2xl scale-0 group-hover/wa:scale-100 transition-transform duration-500"></div>

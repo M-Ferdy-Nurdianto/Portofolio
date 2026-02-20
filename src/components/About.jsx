@@ -137,13 +137,6 @@ const About = () => {
                       <h4 className="text-xl font-semibold text-white">{skill.name}</h4>
                       <p className="text-gray-400 text-xs">{skill.category}</p>
                     </div>
-                    <span className="text-emerald-400 font-bold">{skill.level}%</span>
-                  </div>
-                  <div className="w-full bg-white/10 rounded-full h-2 overflow-hidden">
-                    <div
-                      className="h-full bg-gradient-to-r from-emerald-500 to-green-500 rounded-full transition-all duration-1000"
-                      style={{ width: `${skill.level}%` }}
-                    ></div>
                   </div>
                 </div>
               )

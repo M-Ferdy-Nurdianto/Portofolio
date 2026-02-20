@@ -31,9 +31,9 @@ const Hero = () => {
                   <Typewriter
                     options={{
                       strings: [
-                        t({ en: "Want a Cool Web?", id: "Mau Bikin Web?" }), 
-                        t({ en: "Need Fast Dev?", id: "Butuh Dev Gercep?" }),
-                        t({ en: "Order Now!", id: "Gass Order!" })
+                        t({ en: "Need a High-Converting Web?", id: "Butuh Website High-Converting?" }), 
+                        t({ en: "Custom Digital Solutions", id: "Solusi Digital Tepat Sasaran" }),
+                        t({ en: "Free Consultation", id: "Konsultasi Gratis Sekarang" })
                       ],
                       autoStart: true,
                       loop: true,
