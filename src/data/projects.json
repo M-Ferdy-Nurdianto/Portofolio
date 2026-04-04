@@ -25,14 +25,14 @@
   },
   {
     "id": 3,
-    "title": { "en": "Zenith.ra", "id": "Zenith.ra" },
+    "title": { "en": "Juragan Website", "id": "Juragan Website" },
     "description": {
-      "en": "A local fashion brand from Mojokerto selling exclusive t-shirts and tote bags. I am proud to be one of the owners of this venture.",
-      "id": "Brand fashion lokal dari Mojokerto yang sedang berkembang, fokus pada kaos dan totebag desain eksklusif. Sebagai salah satu pemilik, saya memastikan setiap produk memiliki kualitas bahan dan detail terbaik."
+      "en": "A collective startup of 7 specialists building fast, reliable, and scalable business websites and software. Delivering professional-quality digital products from scratch to launch.",
+      "id": "Startup kolektif 7 orang yang membangun website dan software bisnis cepat, meyakinkan, dan siap scale. Kami mengerjakan produk digital dari nol hingga launch dengan kualitas profesional."
     },
-    "technologies": "React, Node.js, Supabase, Tailwind CSS, JavaScript, AOS.js",
+    "technologies": "React, Next.js, Node.js, Laravel, Flutter, PostgreSQL, MySQL",
     "github_url": "",
-    "live_url": "#",
-    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop"
+    "live_url": "https://m-ferdy-nurdianto.github.io/JuraganWebsite/",
+    "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop"
   }
 ]
