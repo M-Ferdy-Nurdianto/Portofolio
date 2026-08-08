@@ -1,18 +1,6 @@
 [
   {
     "id": 1,
-    "title": { "en": "Soeltan Medsos", "id": "Soeltan Medsos" },
-    "description": {
-      "en": "A trusted SMM platform to skyrocket your social media engagement. Get followers, likes, and views instantly and safely.",
-      "id": "Platform SMM terpercaya untuk meningkatkan interaksi media sosial Anda. Menyediakan pengikut, suka, dan tayangan secara aman serta instan."
-    },
-    "technologies": "React, Node.js, Supabase, Tailwind CSS, JavaScript, AOS.js",
-    "github_url": "",
-    "live_url": "https://soeltanmedsos.web.id",
-    "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop"
-  },
-  {
-    "id": 2,
     "title": { "en": "Refresh Breeze", "id": "Refresh Breeze" },
     "description": {
       "en": "Official website for the Chika Idol Group from Tulungagung. I serve as the web development staff, ensuring fans stay updated.",
@@ -24,7 +12,43 @@
     "image_url": "https://images.unsplash.com/photo-1463930640028-d7373f139580?w=800&h=600&fit=crop"
   },
   {
+    "id": 2,
+    "title": { "en": "LokTik", "id": "LokTik" },
+    "description": {
+      "en": "A modern web-based ticketing platform built specifically to make it easier for Event Organizers (EOs) to organize events.",
+      "id": "Platform ticketing modern berbasis web yang dibangun khusus untuk memudahkan Event Organizer (EO) dalam menyelenggarakan acara."
+    },
+    "technologies": "React, Vite, Tailwind CSS, Node.js, Express, Supabase",
+    "github_url": "https://github.com/M-Ferdy-Nurdianto/Loktik.git",
+    "live_url": "https://www.loktik.web.id/",
+    "image_url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop"
+  },
+  {
     "id": 3,
+    "title": { "en": "Vidmix v2", "id": "Vidmix v2" },
+    "description": {
+      "en": "The Ultimate Media Automation Engine for Content Creators. A high-performance Desktop Automation Software built with Node.js, React, and Electron.",
+      "id": "Mesin Automasi Media Terbaik untuk Content Creator. Perangkat Lunak Automasi Desktop berperforma tinggi yang dibangun menggunakan Node.js, React, dan Electron."
+    },
+    "technologies": "Node.js, React, Electron, FFmpeg, Tailwind CSS",
+    "github_url": "https://github.com/M-Ferdy-Nurdianto/vidmix-v2.git",
+    "live_url": "",
+    "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": { "en": "VIEOS", "id": "VIEOS" },
+    "description": {
+      "en": "An exclusive platform designed for ecosystem management and operational systems of VIEOS IDOL. It serves as a control center for event management, merchandise booking, and internal data processing.",
+      "id": "Platform eksklusif untuk manajemen ekosistem dan sistem operasional VIEOS IDOL. Berfungsi sebagai pusat kendali untuk manajemen event, sistem pemesanan merchandise, serta pengolahan data internal."
+    },
+    "technologies": "React, Vite, Node.js, Admin Dashboard, Data Analytics",
+    "github_url": "https://github.com/M-Ferdy-Nurdianto/VieosIdol.git",
+    "live_url": "https://www.vieos.web.id/",
+    "image_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 5,
     "title": { "en": "Juragan Website", "id": "Juragan Website" },
     "description": {
       "en": "A collective startup of 7 specialists building fast, reliable, and scalable business websites and software. Delivering professional-quality digital products from scratch to launch.",
@@ -34,5 +58,17 @@
     "github_url": "",
     "live_url": "https://m-ferdy-nurdianto.github.io/JuraganWebsite/",
     "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 6,
+    "title": { "en": "METANARU", "id": "METANARU" },
+    "description": {
+      "en": "Exclusive cheki booking system for METANARU. Built with modern technologies: Vite, React, and Supabase.",
+      "id": "Sistem booking cheki eksklusif untuk METANARU. Dibangun dengan teknologi modern Vite, React, dan Supabase."
+    },
+    "technologies": "Vite, React, Supabase, Vercel Functions",
+    "github_url": "https://github.com/M-Ferdy-Nurdianto/MetanaruProject.git",
+    "live_url": "https://www.metanaru.web.id/",
+    "image_url": "https://images.unsplash.com/photo-1493225457124-a1a2a5f5f9af?w=800&h=600&fit=crop"
   }
 ]

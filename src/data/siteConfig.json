@@ -89,6 +89,15 @@
       "issuer": "Junior High Innovation Championship",
       "date": "2025",
       "image": "/certificates/jhic semi final.webp"
+    },
+    {
+      "name": "Sertifikat BNSP",
+      "issuer": "BNSP",
+      "date": "2025",
+      "images": [
+        "/certificates/sertif bnps(depan).png",
+        "/certificates/sertif bnps(belakang).png"
+      ]
     }
   ],
   "skills": [
@@ -110,6 +119,7 @@
       "home": { "en": "Home", "id": "Home" },
       "about": { "en": "Services", "id": "Layanan" },
       "projects": { "en": "Portfolio", "id": "Portofolio" },
+      "certificates": { "en": "Certificates", "id": "Sertifikat" },
       "contact": { "en": "Order Now", "id": "Pesan Sekarang" }
     },
     "buttons": {

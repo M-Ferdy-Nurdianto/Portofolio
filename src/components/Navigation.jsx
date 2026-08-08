@@ -21,6 +21,7 @@ const Navigation = () => {
     { name: t(ui.nav.home), href: '#home' },
     { name: t(ui.nav.about), href: '#about' },
     { name: t(ui.nav.projects), href: '#projects' },
+    { name: t(ui.nav.certificates), href: '#certificates' },
     { name: t(ui.nav.contact), href: '#contact' },
   ]
 
