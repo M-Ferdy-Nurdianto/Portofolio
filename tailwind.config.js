@@ -34,7 +34,7 @@ export default {
             },
             fontFamily: {
                 sans: ['Inter', 'system-ui', 'sans-serif'],
-                display: ['Outfit', 'Inter', 'system-ui', 'sans-serif'],
+                display: ['Space Grotesk', 'Inter', 'system-ui', 'sans-serif'],
             },
             animation: {
                 'gradient': 'gradient 8s linear infinite',

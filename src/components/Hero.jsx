@@ -15,9 +15,9 @@ const Hero = () => {
     <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden pt-20">
       {/* Animated background elements */}
       <div className="absolute inset-0 overflow-hidden">
-        <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-emerald-500/10 rounded-full blur-3xl"></div>
-        <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-green-500/10 rounded-full blur-3xl"></div>
-        <div className="absolute top-1/2 left-1/2 w-96 h-96 bg-teal-500/10 rounded-full blur-3xl"></div>
+        <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl"></div>
+        <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-indigo-500/10 rounded-full blur-3xl"></div>
+        <div className="absolute top-1/2 left-1/2 w-96 h-96 bg-cyan-500/10 rounded-full blur-3xl"></div>
       </div>
 
       <div className="container mx-auto px-4 relative z-10">
@@ -25,7 +25,7 @@ const Hero = () => {
           <div className="flex-1 text-center md:text-left space-y-6">
 
             <div className="space-y-4">
-              <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black tracking-tight font-display text-white">
+              <h1 className="text-2xl sm:text-3xl md:text-5xl lg:text-6xl font-extrabold tracking-tight font-display text-white break-words">
                 <span className="opacity-90 block leading-tight">{personal.name}</span>
                 <span className="gradient-text block mt-2 text-2xl sm:text-3xl md:text-4xl">
                   {t(personal.role)}
@@ -37,11 +37,11 @@ const Hero = () => {
               {t(personal.bio)}
             </p>
 
-            <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start pt-4">
-              <button onClick={() => document.querySelector('#projects')?.scrollIntoView({ behavior: 'smooth' })} className="btn-primary px-8 py-3">
+            <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start pt-4 w-full">
+              <button onClick={() => document.querySelector('#projects')?.scrollIntoView({ behavior: 'smooth' })} className="btn-primary">
                 {t(ui.buttons.view_work)}
               </button>
-              <button onClick={() => document.querySelector('#about')?.scrollIntoView({ behavior: 'smooth' })} className="btn-secondary px-8 py-3">
+              <button onClick={() => document.querySelector('#about')?.scrollIntoView({ behavior: 'smooth' })} className="btn-secondary">
                 {t(ui.buttons.get_in_touch)}
               </button>
             </div>
@@ -51,7 +51,7 @@ const Hero = () => {
                 href={personal.github}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-gray-400 hover:text-emerald-400 transition-all duration-300 hover:scale-110"
+                className="text-gray-400 hover:text-blue-400 transition-all duration-300 hover:scale-110"
               >
                 <FaGithub size={28} />
               </a>
@@ -59,7 +59,7 @@ const Hero = () => {
                 href={personal.instagram}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-gray-400 hover:text-emerald-400 transition-all duration-300 hover:scale-110"
+                className="text-gray-400 hover:text-blue-400 transition-all duration-300 hover:scale-110"
               >
                 <FaInstagram size={28} />
               </a>
@@ -67,13 +67,13 @@ const Hero = () => {
                 href={personal.discord}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-gray-400 hover:text-emerald-400 transition-all duration-300 hover:scale-110"
+                className="text-gray-400 hover:text-blue-400 transition-all duration-300 hover:scale-110"
               >
                 <FaDiscord size={28} />
               </a>
               <a
                 href={`mailto:${personal.email}`}
-                className="text-gray-400 hover:text-emerald-400 transition-all duration-300 hover:scale-110"
+                className="text-gray-400 hover:text-blue-400 transition-all duration-300 hover:scale-110"
               >
                 <FaEnvelope size={28} />
               </a>
@@ -83,12 +83,12 @@ const Hero = () => {
           {/* Profile Image */}
           <div className="flex-1 flex justify-center mt-12 md:mt-0">
             <div className="relative group">
-              <div className="absolute -inset-4 bg-gradient-to-tr from-emerald-500/20 to-teal-500/20 rounded-full blur-xl group-hover:blur-2xl transition-all duration-500 opacity-60"></div>
-              <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-2 border-emerald-500/30 shadow-[0_0_40px_rgba(16,185,129,0.15)] group-hover:border-emerald-400/50 transition-colors duration-500">
+              <div className="absolute -inset-4 bg-gradient-to-tr from-blue-500/20 to-cyan-500/20 rounded-full blur-xl group-hover:blur-2xl transition-all duration-500 opacity-60"></div>
+              <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-2 border-blue-500/30 shadow-[0_0_40px_rgba(59,130,246,0.15)] group-hover:border-blue-400/50 transition-colors duration-500">
                 <img
-                  src="/profile.webp"
+                  src="/foto.webp"
                   alt="Profile"
-                  className="w-full h-full object-cover scale-100 group-hover:scale-105 transition-transform duration-700"
+                  className="w-full h-full object-cover object-[center_10%] scale-100 group-hover:scale-105 transition-transform duration-700"
                 />
               </div>
             </div>

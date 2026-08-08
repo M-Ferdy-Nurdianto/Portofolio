@@ -2,12 +2,12 @@
   "personal": {
     "name": "Mochammad Ferdy Nurdianto",
     "role": {
-      "en": "Web Developer & Digital Solutions",
-      "id": "Web Developer & Solusi Digital"
+      "en": "Web Developer",
+      "id": "Web Developer"
     },
     "bio": {
-      "en": "I'm a fresh graduate from Software Engineering (RPL) who loves building real-world systems. Instead of just learning theory, I've built LokTik (my own ticketing platform) and developed websites for several active idol communities. I create digital solutions that actually work for your business.",
-      "id": "Saya seorang lulusan baru Rekayasa Perangkat Lunak (RPL) yang sudah terbiasa membangun sistem nyata. Bukan sekadar teori, saya telah membangun platform ticketing sendiri (LokTik) dari nol dan mengelola website untuk beberapa komunitas idol. Saya hadir untuk menciptakan solusi digital yang benar-benar bekerja untuk kebutuhan Anda."
+      "en": "I'm a Web Developer and a 2026 Software Engineering (RPL) graduate from SMKN 1 Dlanggu who loves building real-world systems. Instead of just learning theory, I've built LokTik (my own ticketing platform) and developed websites for several active idol communities. I create digital solutions that actually work for your business.",
+      "id": "Saya seorang Web Developer lulusan Rekayasa Perangkat Lunak (RPL) SMKN 1 Dlanggu tahun 2026 yang sudah terbiasa membangun sistem nyata. Bukan sekadar teori, saya telah membangun platform ticketing sendiri (LokTik) dari nol dan mengelola website untuk beberapa komunitas idol. Saya hadir untuk menciptakan solusi digital yang benar-benar bekerja untuk kebutuhan Anda."
     },
     "email": "ferdynm8@gmail.com",
     "whatsapp": "085765907580",
@@ -30,11 +30,11 @@
     },
     {
       "title": { "en": "Business Landing Page", "id": "Landing Page Bisnis" },
-      "desc": { "en": "Convert visitors into clients with a custom-designed, high-performing landing page that builds trust.", "id": "Ubah pengunjung menjadi klien dengan desain yang meyakinkan. Saya merancang landing page khusus untuk meningkatkan kredibilitas bisnis Anda." }
+      "desc": { "en": "Convert visitors into clients with a custom-designed landing page structured to match your specific business goals, just like what I built for LokTik.", "id": "Rancang struktur halaman yang jelas dan mengarah pada konversi. Saya membangun landing page yang langsung menyorot nilai utama bisnis Anda, tanpa desain template yang berlebihan." }
     },
     {
       "title": { "en": "Digital Portfolio", "id": "Portofolio Digital" },
-      "desc": { "en": "Showcase your work professionally to impress HR or potential clients at first sight.", "id": "Tampilkan karya dan keahlian Anda secara profesional. Buat rekruter atau klien terkesan pada pandangan pertama." }
+      "desc": { "en": "Showcase your real-world projects and technical skills in a clear, accessible format designed specifically for recruiters.", "id": "Tampilkan studi kasus proyek dan detail keahlian teknis Anda dalam format yang jelas, rapi, dan mudah dibaca oleh recruiter." }
     },
     {
       "title": { "en": "Digital Catalog", "id": "Katalog Digital & Smart Menu" },
@@ -59,24 +59,27 @@
       "desc": { "en": "You talk directly to the developer. No middlemen, ensuring clear and fast updates.", "id": "Anda berkomunikasi langsung dengan saya selaku developer. Progres transparan dan pengerjaan tepat waktu tanpa perantara." }
     },
     {
-      "title": { "en": "Affordable Quality", "id": "Kualitas Realistis & Terjangkau" },
-      "desc": { "en": "Premium quality tailored to your actual budget, perfect for students or small businesses.", "id": "Solusi cerdas dengan harga yang menyesuaikan budget pelajar atau UMKM, namun tetap mempertahankan standar kualitas tinggi." }
+      "title": { "en": "Affordable Quality", "id": "Harga Rasional" },
+      "desc": { "en": "Clear pricing structures that make sense for your project size, whether it's a student assignment or an SME platform.", "id": "Sistem harga yang transparan dan masuk akal, disesuaikan langsung dengan skala proyek Anda, mulai dari portofolio sederhana hingga sistem kompleks UMKM." }
     },
     {
       "title": { "en": "Flexible Iterations", "id": "Revisi Fleksibel" },
       "desc": { "en": "I refine the project until it truly matches your expectations and needs.", "id": "Saya akan melakukan iterasi dan penyesuaian hingga hasil akhir benar-benar sesuai dengan ekspektasi Anda." }
     },
     {
-      "title": { "en": "All-in-One Service", "id": "Layanan Terima Beres" },
-      "desc": { "en": "Includes free hosting setup and SEO optimization out of the box.", "id": "Website sudah termasuk setup hosting gratis dan optimasi SEO. Anda tinggal terima beres dan website langsung mengudara." }
+      "title": { "en": "End-to-End Setup", "id": "Setup Hingga Live" },
+      "desc": { "en": "I handle the complete deployment pipeline, including domain configuration and hosting setup, so your site is ready for users.", "id": "Saya menangani seluruh proses teknis deployment, mulai dari konfigurasi domain hingga setup hosting, memastikan website Anda benar-benar siap diakses publik." }
     }
   ],
   "certificates": [
     {
-      "name": "Member Imphnen",
-      "issuer": "Group Imphnen",
-      "date": "2024",
-      "image": "/certificates/imphnen.webp"
+      "name": "Sertifikat BNSP",
+      "issuer": "BNSP",
+      "date": "2025",
+      "images": [
+        "/certificates/sertif bnps(depan).png",
+        "/certificates/sertif bnps(belakang).png"
+      ]
     },
     {
       "name": "Sertifikat Kelulusan Magang",
@@ -91,13 +94,10 @@
       "image": "/certificates/jhic semi final.webp"
     },
     {
-      "name": "Sertifikat BNSP",
-      "issuer": "BNSP",
-      "date": "2025",
-      "images": [
-        "/certificates/sertif bnps(depan).png",
-        "/certificates/sertif bnps(belakang).png"
-      ]
+      "name": "Member Imphnen",
+      "issuer": "Group Imphnen",
+      "date": "2024",
+      "image": "/certificates/imphnen.webp"
     }
   ],
   "skills": [

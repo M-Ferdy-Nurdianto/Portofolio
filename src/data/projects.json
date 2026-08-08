@@ -3,72 +3,72 @@
     "id": 1,
     "title": { "en": "Refresh Breeze", "id": "Refresh Breeze" },
     "description": {
-      "en": "Official website for Chika Idol Group, solving the need for a centralized platform to keep fans updated on schedules, members, and news. Built with React, Supabase, and Tailwind.",
-      "id": "Menyelesaikan masalah ketiadaan pusat informasi resmi untuk fans Chika Idol Group. Website ini memastikan jadwal, profil member, dan berita selalu up-to-date. (React, Supabase, Tailwind CSS)"
+      "en": "Official website for Chika Idol Group, solving the need for a centralized platform to keep fans updated on schedules, members, and news.",
+      "id": "Menyelesaikan masalah ketiadaan pusat informasi resmi untuk fans Chika Idol Group. Website ini memastikan jadwal, profil member, dan berita selalu up-to-date."
     },
     "technologies": "React, Node.js, Supabase, Tailwind CSS, JavaScript, AOS.js",
     "github_url": "",
     "live_url": "https://refreshbreeze.web.id",
-    "image_url": "https://images.unsplash.com/photo-1463930640028-d7373f139580?w=800&h=600&fit=crop"
+    "image_url": "/projects/Refresh Breeze.webp"
   },
   {
     "id": 2,
     "title": { "en": "LokTik", "id": "LokTik" },
     "description": {
-      "en": "A zero-commission ticketing platform built to eliminate the hassle of manual ticket recap for Event Organizers. Handles real-time bookings efficiently. Built with React, Express, and Supabase.",
-      "id": "Platform ticketing zero-commission yang dibangun untuk menghilangkan pusingnya rekap manual bagi Event Organizer. Mengelola pemesanan tiket secara real-time. (React, Vite, Tailwind, Node.js, Supabase)"
+      "en": "A zero-commission ticketing platform built to eliminate the hassle of manual ticket recap for Event Organizers. Handles real-time bookings efficiently.",
+      "id": "Platform ticketing zero-commission yang dibangun untuk menghilangkan pusingnya rekap manual bagi Event Organizer. Mengelola pemesanan tiket secara real-time."
     },
     "technologies": "React, Vite, Tailwind CSS, Node.js, Express, Supabase",
     "github_url": "https://github.com/M-Ferdy-Nurdianto/Loktik.git",
     "live_url": "https://www.loktik.web.id/",
-    "image_url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop"
+    "image_url": "/projects/Loktik.webp"
   },
   {
     "id": 3,
     "title": { "en": "Vidmix v2", "id": "Vidmix v2" },
     "description": {
-      "en": "Desktop automation software designed to speed up video processing and media generation for content creators, automating repetitive tasks. Built with Electron, React, and FFmpeg.",
-      "id": "Software automasi desktop untuk mempercepat pemrosesan video bagi content creator, menghilangkan tugas repetitif secara otomatis. (Electron, React, FFmpeg)"
+      "en": "Desktop automation software designed to speed up video processing and media generation for content creators, automating repetitive tasks.",
+      "id": "Software automasi desktop untuk mempercepat pemrosesan video bagi content creator, menghilangkan tugas repetitif secara otomatis."
     },
     "technologies": "Node.js, React, Electron, FFmpeg, Tailwind CSS",
     "github_url": "https://github.com/M-Ferdy-Nurdianto/vidmix-v2.git",
     "live_url": "",
-    "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800&h=600&fit=crop"
+    "image_url": "/projects/Vidmixv2.webp"
   },
   {
     "id": 4,
     "title": { "en": "VIEOS", "id": "VIEOS" },
     "description": {
       "en": "An exclusive operational control center for VIEOS IDOL. Solves fragmented data by integrating event management, merchandise booking, and internal analytics.",
-      "id": "Pusat kendali operasional eksklusif VIEOS IDOL. Menyelesaikan masalah data terfragmentasi dengan menyatukan manajemen event, booking merchandise, dan analitik internal. (React, Vite, Node.js)"
+      "id": "Pusat kendali operasional eksklusif VIEOS IDOL. Menyelesaikan masalah data terfragmentasi dengan menyatukan manajemen event, booking merchandise, dan analitik internal."
     },
     "technologies": "React, Vite, Node.js, Admin Dashboard, Data Analytics",
     "github_url": "https://github.com/M-Ferdy-Nurdianto/VieosIdol.git",
     "live_url": "https://www.vieos.web.id/",
-    "image_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&h=600&fit=crop"
+    "image_url": "/projects/Vieos.webp"
   },
   {
     "id": 5,
     "title": { "en": "Juragan Website", "id": "Juragan Website" },
     "description": {
       "en": "Landing page for a collective startup offering web development services. Highlights the agency's portfolio and streamlines client inquiries.",
-      "id": "Landing page untuk startup kolektif pembuatan website. Dibangun untuk menonjolkan portofolio agensi dan mempermudah klien dalam melakukan pemesanan. (React, Next.js, Node.js)"
+      "id": "Landing page untuk startup kolektif pembuatan website. Dibangun untuk menonjolkan portofolio agensi dan mempermudah klien dalam melakukan pemesanan."
     },
     "technologies": "React, Next.js, Node.js, Laravel, Flutter, PostgreSQL, MySQL",
     "github_url": "",
     "live_url": "https://m-ferdy-nurdianto.github.io/JuraganWebsite/",
-    "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop"
+    "image_url": "/projects/Jw.webp"
   },
   {
     "id": 6,
     "title": { "en": "METANARU", "id": "METANARU" },
     "description": {
       "en": "An exclusive cheki booking system designed for METANARU, streamlining the offline photo session booking process to avoid queues and double bookings.",
-      "id": "Sistem booking cheki eksklusif untuk METANARU. Memperlancar proses pemesanan sesi foto offline untuk menghindari antrian panjang dan double booking. (Vite, React, Supabase)"
+      "id": "Sistem booking cheki eksklusif untuk METANARU. Memperlancar proses pemesanan sesi foto offline untuk menghindari antrian panjang dan double booking."
     },
     "technologies": "Vite, React, Supabase, Vercel Functions",
     "github_url": "https://github.com/M-Ferdy-Nurdianto/MetanaruProject.git",
     "live_url": "https://www.metanaru.web.id/",
-    "image_url": "https://images.unsplash.com/photo-1493225457124-a1a2a5f5f9af?w=800&h=600&fit=crop"
+    "image_url": "/projects/Metanaru.webp"
   }
 ]

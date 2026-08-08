@@ -75,15 +75,15 @@ const About = () => {
           <h3 className="text-3xl font-bold mb-10 text-center text-white">
             {t(ui.titles.services_title)}
           </h3>
-          <div className="grid md:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
             {services.map((service, index) => {
               const Icon = serviceIconMap[index] || FaRocket
               return (
-                <div key={index} className="glass-card p-8 group hover:-translate-y-2 transition-all duration-300">
-                  <div className="w-14 h-14 bg-emerald-500/20 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-emerald-500/30 transition-colors">
-                    <Icon className="text-2xl text-emerald-400" />
+                <div key={index} className="glass-card p-6 md:p-8 group hover:-translate-y-2 transition-all duration-300">
+                  <div className="w-14 h-14 bg-blue-500/20 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-blue-500/30 transition-colors">
+                    <Icon className="text-2xl text-blue-400" />
                   </div>
-                  <h3 className="text-xl font-bold mb-3 text-white group-hover:text-emerald-300 transition-colors">
+                  <h3 className="text-lg md:text-xl font-bold mb-3 text-white group-hover:text-blue-300 transition-colors">
                     {t(service.title)}
                   </h3>
                   <p className="text-gray-400 text-sm leading-relaxed">
@@ -100,13 +100,13 @@ const About = () => {
           <h3 className="text-3xl font-bold mb-10 text-center text-white">
             {t(ui.titles.benefits_title)}
           </h3>
-           <div className="grid md:grid-cols-3 gap-6">
+           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {benefits && benefits.map((item, index) => {
               const Icon = benefitIconMap[index] || FaRocket
               return (
-                <div key={index} className="bg-white/5 border border-white/10 rounded-xl p-6 hover:border-emerald-500/50 transition-all">
+                <div key={index} className="bg-white/5 border border-white/10 rounded-xl p-6 hover:border-blue-500/50 transition-all">
                    <div className="flex items-center gap-4 mb-3">
-                      <Icon className="text-emerald-400 text-2xl"/>
+                      <Icon className="text-blue-400 text-2xl"/>
                       <h4 className="text-lg font-bold text-white">{t(item.title)}</h4>
                    </div>
                    <p className="text-gray-400 text-xs md:text-sm">{t(item.desc)}</p>
