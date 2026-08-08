@@ -2,12 +2,12 @@
   "personal": {
     "name": "Mochammad Ferdy Nurdianto",
     "role": {
-      "en": "Web Solutions & Digital Solutions",
-      "id": "Jasa Web & Solusi Digital"
+      "en": "Web Developer & Digital Solutions",
+      "id": "Web Developer & Solusi Digital"
     },
     "bio": {
-      "en": "Transforming your ideas into high-quality, high-performance websites. Specialized in building custom business solutions with 2.5 years of technical expertise.",
-      "id": "Transformasi ide Anda menjadi website high-performance yang tidak hanya cantik, tapi juga fungsional. Dengan pengalaman 2.5 tahun, saya siap menghadirkan solusi digital yang tepat sasaran untuk kebutuhan bisnis Anda."
+      "en": "I'm a fresh graduate from Software Engineering (RPL) who loves building real-world systems. Instead of just learning theory, I've built LokTik (my own ticketing platform) and developed websites for several active idol communities. I create digital solutions that actually work for your business.",
+      "id": "Saya seorang lulusan baru Rekayasa Perangkat Lunak (RPL) yang sudah terbiasa membangun sistem nyata. Bukan sekadar teori, saya telah membangun platform ticketing sendiri (LokTik) dari nol dan mengelola website untuk beberapa komunitas idol. Saya hadir untuk menciptakan solusi digital yang benar-benar bekerja untuk kebutuhan Anda."
     },
     "email": "ferdynm8@gmail.com",
     "whatsapp": "085765907580",
@@ -21,54 +21,54 @@
   },
   "services": [
     {
-      "title": { "en": "Personal Branding", "id": "Digital Persona & Portofolio" },
-      "desc": { "en": "Showcase your skills & work in style. Make HR or clients fall in love at first sight.", "id": "Tampilkan keahlian Anda dengan visual berkelas. Pastikan impresi pertama yang tak terlupakan bagi klien maupun HR." }
+      "title": { "en": "Ticketing & Booking System", "id": "Sistem Ticketing & Reservasi" },
+      "desc": { "en": "I've built LokTik from scratch, so I understand the real needs of event organizers. Sell tickets or cheki slots automatically without manual recap.", "id": "Berbekal pengalaman membangun LokTik dari nol, saya paham betul kebutuhan Event Organizer. Jual tiket atau slot cheki secara otomatis tanpa pusing rekap manual." }
     },
     {
-      "title": { "en": "Business Landing Page", "id": "High-Converting Landing Page" },
-      "desc": { "en": "Convert visitors into buyers. Professional design to boost trust & business conversions.", "id": "Ubah trafik menjadi profit. Desain strategis yang dirancang khusus untuk meningkatkan kredibilitas dan konversi bisnis Anda." }
+      "title": { "en": "Fanbase & Community Portal", "id": "Portal Fanbase & Komunitas" },
+      "desc": { "en": "I manage websites for active idol groups, providing a solid online hub for your community with complete features.", "id": "Biasa pegang website untuk komunitas idol aktif. Saya bisa buatkan wadah berkumpul online yang solid dengan fitur lengkap untuk mempererat koneksi anggota." }
     },
     {
-      "title": { "en": "Booking System", "id": "Sistem Reservasi Otomatis" },
-      "desc": { "en": "Sell event tickets or cheki slots fully automatically. No more manual recap hassle!", "id": "Kelola tiket acara atau slot booking tanpa ribet. Biarkan sistem bekerja otomatis, Anda tinggal fokus pada eksekusi." }
+      "title": { "en": "Business Landing Page", "id": "Landing Page Bisnis" },
+      "desc": { "en": "Convert visitors into clients with a custom-designed, high-performing landing page that builds trust.", "id": "Ubah pengunjung menjadi klien dengan desain yang meyakinkan. Saya merancang landing page khusus untuk meningkatkan kredibilitas bisnis Anda." }
     },
     {
-      "title": { "en": "Special Occasion", "id": "Digital Gift & Greetings" },
-      "desc": { "en": "Make them melt on birthdays or valentine's. Interactive web that will be remembered forever.", "id": "Berikan kejutan tak terlupakan lewat website interaktif. Sempurna untuk momen ulang tahun, perayaan, atau hadiah spesial." }
+      "title": { "en": "Digital Portfolio", "id": "Portofolio Digital" },
+      "desc": { "en": "Showcase your work professionally to impress HR or potential clients at first sight.", "id": "Tampilkan karya dan keahlian Anda secara profesional. Buat rekruter atau klien terkesan pada pandangan pertama." }
     },
     {
-      "title": { "en": "Digital Catalog", "id": "E-Catalog & Smart Menu" },
-      "desc": { "en": "Display your products without limits. Click to order, practical for non-shipping businesses.", "id": "Pamerkan produk Anda tanpa batas. Fitur 'Click-to-Order' yang praktis, modern, dan sangat mudah digunakan." }
+      "title": { "en": "Digital Catalog", "id": "Katalog Digital & Smart Menu" },
+      "desc": { "en": "Display your products seamlessly. Easy 'Click-to-Order' features for practical business operations.", "id": "Pamerkan produk Anda dengan fitur 'Click-to-Order' yang praktis, modern, dan sangat mudah digunakan oleh pelanggan." }
     },
     {
-      "title": { "en": "Community Portal", "id": "Fanbase & Community Hub" },
-      "desc": { "en": "Online gathering place for your fanbase or community. Complete features, simpler bonding!", "id": "Wadah berkumpul online yang solid untuk komunitas Anda. Fitur lengkap untuk mempererat koneksi antar anggota." }
+      "title": { "en": "Special Occasion Web", "id": "Website Spesial Momen" },
+      "desc": { "en": "Interactive digital greetings for birthdays, anniversaries, or special gifts.", "id": "Kejutan tak terlupakan lewat website interaktif. Cocok untuk perayaan ulang tahun, anniversary, atau hadiah digital eksklusif." }
     }
   ],
   "benefits": [
     {
-      "title": { "en": "Affordable Pricing", "id": "Investasi Terjangkau" },
-      "desc": { "en": "High-quality websites starting from just 200k IDR.", "id": "Kualitas premium dengan harga mulai dari 200rb-an. Solusi cerdas untuk budget pelajar dan UMKM." }
+      "title": { "en": "Real-World Experience", "id": "Pengalaman Sistem Nyata" },
+      "desc": { "en": "I don't just use templates. I build complex systems like ticketing platforms from the ground up.", "id": "Saya bukan sekadar perakit template. Saya terbiasa membangun sistem kompleks seperti platform ticketing (LokTik) dari nol." }
     },
     {
-      "title": { "en": "Fast Response", "id": "Komunikasi Proaktif" },
-      "desc": { "en": "Guaranteed fast communication and timely delivery.", "id": "Update progres transparan dan pengerjaan tepat waktu. Kami menghargai setiap detik waktu Anda." }
+      "title": { "en": "Event & Idol Niche Expert", "id": "Paham Kebutuhan Event" },
+      "desc": { "en": "Familiar with the needs of event organizers and idol communities (fests, cheki, OTS).", "id": "Terbiasa mengelola website untuk beberapa komunitas idol aktif, jadi saya sangat paham kebutuhan real event fest, cheki, maupun OTS." }
     },
     {
-      "title": { "en": "Unlimited Revisions", "id": "Jaminan Kepuasan" },
-      "desc": { "en": "Refining until it matches your vision perfectly.", "id": "Iterasi fleksibel hingga hasil akhir benar-benar sesuai dengan ekspektasi dan standar brand Anda." }
+      "title": { "en": "Direct Communication", "id": "Komunikasi Langsung & Proaktif" },
+      "desc": { "en": "You talk directly to the developer. No middlemen, ensuring clear and fast updates.", "id": "Anda berkomunikasi langsung dengan saya selaku developer. Progres transparan dan pengerjaan tepat waktu tanpa perantara." }
     },
     {
-      "title": { "en": "Bonus Pages & Features", "id": "Fitur Lengkap & Bonus" },
-      "desc": { "en": "Get extra pages and abundant features for free.", "id": "Nikmati tambahan halaman dan fitur pendukung gratis untuk optimasi performa website Anda." }
+      "title": { "en": "Affordable Quality", "id": "Kualitas Realistis & Terjangkau" },
+      "desc": { "en": "Premium quality tailored to your actual budget, perfect for students or small businesses.", "id": "Solusi cerdas dengan harga yang menyesuaikan budget pelajar atau UMKM, namun tetap mempertahankan standar kualitas tinggi." }
     },
     {
-      "title": { "en": "Free Hosting", "id": "Free Hosting & Domain" },
-      "desc": { "en": "Free hosting included, live immediately.", "id": "Website langsung mengudara tanpa biaya tambahan. Hosting sudah termasuk dalam setiap paket." }
+      "title": { "en": "Flexible Iterations", "id": "Revisi Fleksibel" },
+      "desc": { "en": "I refine the project until it truly matches your expectations and needs.", "id": "Saya akan melakukan iterasi dan penyesuaian hingga hasil akhir benar-benar sesuai dengan ekspektasi Anda." }
     },
     {
-      "title": { "en": "SEO Optimized", "id": "Prioritas SEO" },
-      "desc": { "en": "Google-friendly and lightning fast.", "id": "Website cepat, ringan, dan Google-friendly untuk jangkauan pasar yang lebih luas." }
+      "title": { "en": "All-in-One Service", "id": "Layanan Terima Beres" },
+      "desc": { "en": "Includes free hosting setup and SEO optimization out of the box.", "id": "Website sudah termasuk setup hosting gratis dan optimasi SEO. Anda tinggal terima beres dan website langsung mengudara." }
     }
   ],
   "certificates": [
@@ -101,50 +101,50 @@
     }
   ],
   "skills": [
-    {"name": "HTML", "level": 95, "category": "Frontend"},
-    {"name": "CSS", "level": 90, "category": "Frontend"},
-    {"name": "JavaScript", "level": 85, "category": "Language"},
-    {"name": "React", "level": 85, "category": "Frontend"},
-    {"name": "Tailwind CSS", "level": 90, "category": "Frontend"},
-    {"name": "Node.js", "level": 75, "category": "Backend"},
-    {"name": "Supabase", "level": 80, "category": "Backend"},
-    {"name": "Midtrans", "level": 80, "category": "Payment"},
-    {"name": "Figma", "level": 85, "category": "Design"},
-    {"name": "Canva", "level": 95, "category": "Design"},
-    {"name": "PHP", "level": 45, "category": "Backend"},
-    {"name": "Laravel", "level": 40, "category": "Backend"}
+    {"name": "HTML", "category": "Frontend"},
+    {"name": "CSS", "category": "Frontend"},
+    {"name": "JavaScript", "category": "Language"},
+    {"name": "React", "category": "Frontend"},
+    {"name": "Tailwind CSS", "category": "Frontend"},
+    {"name": "Node.js", "category": "Backend"},
+    {"name": "Supabase", "category": "Backend"},
+    {"name": "Midtrans", "category": "Payment"},
+    {"name": "Figma", "category": "Design"},
+    {"name": "Canva", "category": "Design"},
+    {"name": "PHP", "category": "Backend"},
+    {"name": "Laravel", "category": "Backend"}
   ],
   "ui": {
     "nav": {
       "home": { "en": "Home", "id": "Home" },
-      "about": { "en": "Services", "id": "Layanan" },
-      "projects": { "en": "Portfolio", "id": "Portofolio" },
+      "about": { "en": "Services", "id": "Jasa Website" },
+      "projects": { "en": "Portfolio", "id": "Portofolio Kerja" },
       "certificates": { "en": "Certificates", "id": "Sertifikat" },
-      "contact": { "en": "Order Now", "id": "Pesan Sekarang" }
+      "contact": { "en": "Order Now", "id": "Pesan Website" }
     },
     "buttons": {
-      "view_work": { "en": "View Portfolio", "id": "Lihat Proyek" },
+      "view_work": { "en": "View Portfolio", "id": "Lihat Portofolio Kerja" },
       "get_in_touch": { "en": "Order Website", "id": "Pesan Website" },
-      "order_whatsapp": { "en": "Order via WhatsApp", "id": "Hubungi via WhatsApp" }
+      "order_whatsapp": { "en": "Order via WhatsApp", "id": "Pesan via WhatsApp" }
     },
     "titles": {
-      "skills": { "en": "Expertise", "id": "Skill yang saya miliki" },
-      "projects": { "en": "Latest Projects", "id": "Proyek Terbaru" },
-      "contact": { "en": "Order Your Website", "id": "Pesan Website Sekarang" },
-      "services_title": { "en": "My Current Expertise", "id": "Layanan Profesional" },
-      "benefits_title": { "en": "Why Choose Me?", "id": "Keunggulan Kami" },
+      "skills": { "en": "Tech Stack & Tools", "id": "Teknologi & Tools" },
+      "projects": { "en": "Work Portfolio", "id": "Portofolio Kerja" },
+      "contact": { "en": "Ready to Start?", "id": "Mulai Proyek Anda" },
+      "services_title": { "en": "Website Services", "id": "Jasa Pembuatan Website" },
+      "benefits_title": { "en": "Why Work With Me?", "id": "Kenapa Memilih Saya?" },
       "contact_info": { "en": "Direct Contact", "id": "Kontak Langsung" },
       "follow_me": { "en": "Follow Me", "id": "Media Sosial" },
-      "welcome": { "en": "Build Your Digital Presence", "id": "Elevate Your Digital Presence" }
+      "welcome": { "en": "Build Your Digital Presence", "id": "Bangun Sistem Digital Anda" }
     },
     "messages": {
-      "loading_projects": { "en": "Loading projects...", "id": "Sedang memuat proyek..." },
-      "no_projects": { "en": "No projects found.", "id": "Belum ada proyek tersedia." },
+      "loading_projects": { "en": "Loading projects...", "id": "Memuat portofolio..." },
+      "no_projects": { "en": "No projects found.", "id": "Belum ada portofolio." },
       "cta_desc": { 
-        "en": "Ready to take your business online? Contact me now to discuss your project.", 
-        "id": "Siap untuk mengembangkan bisnis Anda secara online? Hubungi saya sekarang untuk mendiskusikan proyek Anda." 
+        "en": "Ready to build a system that works? Let's discuss your project.", 
+        "id": "Siap membangun sistem yang bekerja untuk bisnis Anda? Mari diskusikan detail proyek Anda bersama saya." 
       },
-      "explore_projects": { "en": "Check out my previous work", "id": "Lihat karya-karya kami sebelumnya:" }
+      "explore_projects": { "en": "Real-world systems and projects I've built", "id": "Sistem nyata dan proyek yang pernah saya kerjakan" }
     }
   }
 }

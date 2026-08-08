@@ -3,8 +3,8 @@
     "id": 1,
     "title": { "en": "Refresh Breeze", "id": "Refresh Breeze" },
     "description": {
-      "en": "Official website for the Chika Idol Group from Tulungagung. I serve as the web development staff, ensuring fans stay updated.",
-      "id": "Situs resmi untuk Chika Idol Group asal Tulungagung. Saya berperan sebagai staf pengembang web untuk memastikan informasi terbaru tersampaikan dengan baik kepada penggemar."
+      "en": "Official website for Chika Idol Group, solving the need for a centralized platform to keep fans updated on schedules, members, and news. Built with React, Supabase, and Tailwind.",
+      "id": "Menyelesaikan masalah ketiadaan pusat informasi resmi untuk fans Chika Idol Group. Website ini memastikan jadwal, profil member, dan berita selalu up-to-date. (React, Supabase, Tailwind CSS)"
     },
     "technologies": "React, Node.js, Supabase, Tailwind CSS, JavaScript, AOS.js",
     "github_url": "",
@@ -15,8 +15,8 @@
     "id": 2,
     "title": { "en": "LokTik", "id": "LokTik" },
     "description": {
-      "en": "A modern web-based ticketing platform built specifically to make it easier for Event Organizers (EOs) to organize events.",
-      "id": "Platform ticketing modern berbasis web yang dibangun khusus untuk memudahkan Event Organizer (EO) dalam menyelenggarakan acara."
+      "en": "A zero-commission ticketing platform built to eliminate the hassle of manual ticket recap for Event Organizers. Handles real-time bookings efficiently. Built with React, Express, and Supabase.",
+      "id": "Platform ticketing zero-commission yang dibangun untuk menghilangkan pusingnya rekap manual bagi Event Organizer. Mengelola pemesanan tiket secara real-time. (React, Vite, Tailwind, Node.js, Supabase)"
     },
     "technologies": "React, Vite, Tailwind CSS, Node.js, Express, Supabase",
     "github_url": "https://github.com/M-Ferdy-Nurdianto/Loktik.git",
@@ -27,8 +27,8 @@
     "id": 3,
     "title": { "en": "Vidmix v2", "id": "Vidmix v2" },
     "description": {
-      "en": "The Ultimate Media Automation Engine for Content Creators. A high-performance Desktop Automation Software built with Node.js, React, and Electron.",
-      "id": "Mesin Automasi Media Terbaik untuk Content Creator. Perangkat Lunak Automasi Desktop berperforma tinggi yang dibangun menggunakan Node.js, React, dan Electron."
+      "en": "Desktop automation software designed to speed up video processing and media generation for content creators, automating repetitive tasks. Built with Electron, React, and FFmpeg.",
+      "id": "Software automasi desktop untuk mempercepat pemrosesan video bagi content creator, menghilangkan tugas repetitif secara otomatis. (Electron, React, FFmpeg)"
     },
     "technologies": "Node.js, React, Electron, FFmpeg, Tailwind CSS",
     "github_url": "https://github.com/M-Ferdy-Nurdianto/vidmix-v2.git",
@@ -39,8 +39,8 @@
     "id": 4,
     "title": { "en": "VIEOS", "id": "VIEOS" },
     "description": {
-      "en": "An exclusive platform designed for ecosystem management and operational systems of VIEOS IDOL. It serves as a control center for event management, merchandise booking, and internal data processing.",
-      "id": "Platform eksklusif untuk manajemen ekosistem dan sistem operasional VIEOS IDOL. Berfungsi sebagai pusat kendali untuk manajemen event, sistem pemesanan merchandise, serta pengolahan data internal."
+      "en": "An exclusive operational control center for VIEOS IDOL. Solves fragmented data by integrating event management, merchandise booking, and internal analytics.",
+      "id": "Pusat kendali operasional eksklusif VIEOS IDOL. Menyelesaikan masalah data terfragmentasi dengan menyatukan manajemen event, booking merchandise, dan analitik internal. (React, Vite, Node.js)"
     },
     "technologies": "React, Vite, Node.js, Admin Dashboard, Data Analytics",
     "github_url": "https://github.com/M-Ferdy-Nurdianto/VieosIdol.git",
@@ -51,8 +51,8 @@
     "id": 5,
     "title": { "en": "Juragan Website", "id": "Juragan Website" },
     "description": {
-      "en": "A collective startup of 7 specialists building fast, reliable, and scalable business websites and software. Delivering professional-quality digital products from scratch to launch.",
-      "id": "Startup kolektif 7 orang yang membangun website dan software bisnis cepat, meyakinkan, dan siap scale. Kami mengerjakan produk digital dari nol hingga launch dengan kualitas profesional."
+      "en": "Landing page for a collective startup offering web development services. Highlights the agency's portfolio and streamlines client inquiries.",
+      "id": "Landing page untuk startup kolektif pembuatan website. Dibangun untuk menonjolkan portofolio agensi dan mempermudah klien dalam melakukan pemesanan. (React, Next.js, Node.js)"
     },
     "technologies": "React, Next.js, Node.js, Laravel, Flutter, PostgreSQL, MySQL",
     "github_url": "",
@@ -63,8 +63,8 @@
     "id": 6,
     "title": { "en": "METANARU", "id": "METANARU" },
     "description": {
-      "en": "Exclusive cheki booking system for METANARU. Built with modern technologies: Vite, React, and Supabase.",
-      "id": "Sistem booking cheki eksklusif untuk METANARU. Dibangun dengan teknologi modern Vite, React, dan Supabase."
+      "en": "An exclusive cheki booking system designed for METANARU, streamlining the offline photo session booking process to avoid queues and double bookings.",
+      "id": "Sistem booking cheki eksklusif untuk METANARU. Memperlancar proses pemesanan sesi foto offline untuk menghindari antrian panjang dan double booking. (Vite, React, Supabase)"
     },
     "technologies": "Vite, React, Supabase, Vercel Functions",
     "github_url": "https://github.com/M-Ferdy-Nurdianto/MetanaruProject.git",

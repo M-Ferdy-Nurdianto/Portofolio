@@ -7,8 +7,14 @@ const Projects = () => {
   const [projects, setProjects] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
-  const { ui } = config
+  const { ui, skills } = config
   const { t } = useLanguage()
+
+  const groupedSkills = skills.reduce((acc, skill) => {
+    if (!acc[skill.category]) acc[skill.category] = []
+    acc[skill.category].push(skill.name)
+    return acc
+  }, {})
 
   // Load projects on mount
   useEffect(() => {
@@ -117,10 +123,33 @@ const Projects = () => {
         </div>
 
         {projects.length === 0 && (
-          <div className="text-center py-20">
+          <div className="text-center py-10">
             <p className="text-gray-400 text-xl">{t(ui.messages.no_projects)}</p>
           </div>
         )}
+
+        {/* Skills Section */}
+        <div className="mt-24">
+          <div className="text-center mb-12">
+            <h3 className="text-3xl md:text-4xl font-bold mb-4 gradient-text font-display">
+              {t(ui.titles.skills)}
+            </h3>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            {Object.entries(groupedSkills).map(([category, items], index) => (
+              <div key={category} className="glass-card p-6" style={{ animationDelay: `${index * 0.1}s` }}>
+                <h4 className="text-xl font-bold mb-4 text-emerald-400 border-b border-emerald-500/20 pb-2">{category}</h4>
+                <div className="flex flex-wrap gap-2">
+                  {items.map(item => (
+                    <span key={item} className="px-3 py-1 bg-white/5 border border-white/10 rounded-md text-sm text-gray-300 hover:text-white hover:border-emerald-500/50 transition-colors">
+                      {item}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
       </div>
     </section>
   )

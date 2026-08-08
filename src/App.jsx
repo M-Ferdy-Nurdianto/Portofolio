@@ -34,9 +34,9 @@ function App() {
     <div className="min-h-screen custom-scrollbar overflow-x-hidden">
       <Navigation />
       <Hero />
-      <About />
       <Projects />
       <Certificates />
+      <About />
       <Contact />
       
       {/* Footer */}

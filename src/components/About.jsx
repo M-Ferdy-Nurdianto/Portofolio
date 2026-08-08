@@ -63,10 +63,10 @@ const About = () => {
         {/* Intro */}
         <div className="text-center mb-16">
            <h2 className="text-4xl md:text-5xl font-bold mb-4 gradient-text font-display">
-            {t({ en: "About Me", id: "Tentang Saya" })}
+            {t(ui.titles.services_title)}
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            {t(personal.bio)}
+            {t(ui.messages.cta_desc)}
           </p>
         </div>
 
@@ -116,33 +116,6 @@ const About = () => {
            </div>
         </div>
 
-        {/* Technical Skills */}
-        <div>
-          <h3 className="text-3xl font-bold mb-10 text-center gradient-text">
-            {t(ui.titles.skills)}
-          </h3>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {configSkills.map((skill, index) => {
-              const Icon = iconMap[skill.name] || FaTools
-              const colorClass = colorMap[skill.name] || 'text-emerald-400'
-              return (
-                <div
-                  key={index}
-                  className="glass-card-hover p-6"
-                  style={{ animationDelay: `${index * 0.1}s` }}
-                >
-                  <div className="flex items-center gap-4 mb-4">
-                    <Icon className={`text-4xl ${colorClass}`} />
-                    <div className="flex-1">
-                      <h4 className="text-xl font-semibold text-white">{skill.name}</h4>
-                      <p className="text-gray-400 text-xs">{skill.category}</p>
-                    </div>
-                  </div>
-                </div>
-              )
-            })}
-          </div>
-        </div>
       </div>
     </section>
   )

@@ -62,18 +62,26 @@ const Contact = () => {
                     </p>
                 </div>
 
-                <div className="pt-4">
+                <div className="pt-4 flex flex-col sm:flex-row gap-4 justify-center">
                     <a
                         href={waLink}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="group/wa relative inline-flex items-center gap-3 px-10 py-5 bg-emerald-500 text-white rounded-2xl font-black text-lg md:text-xl hover:bg-emerald-400 transition-all duration-300 hover:scale-105 hover:shadow-[0_0_30px_rgba(16,185,129,0.6)]"
+                        className="group/wa relative inline-flex items-center gap-3 px-8 py-4 bg-emerald-500 text-white rounded-2xl font-bold text-lg hover:bg-emerald-400 transition-all duration-300 hover:scale-105 hover:shadow-[0_0_30px_rgba(16,185,129,0.6)]"
                     >
                         <WhatsappIcon className="text-2xl group-hover/wa:rotate-12 transition-transform" />
-                        {t({ en: "Claim Your Free Consultation", id: "Ambil Slot Konsultasi Gratis" })}
+                        {t({ en: "Order via WhatsApp", id: "Order via WhatsApp" })}
                         
                         {/* Decorative glow on button */}
                         <div className="absolute inset-0 bg-white/20 rounded-2xl scale-0 group-hover/wa:scale-100 transition-transform duration-500"></div>
+                    </a>
+
+                    <a
+                        href={`mailto:${personal.email}`}
+                        className="group/email relative inline-flex items-center gap-3 px-8 py-4 bg-white/10 text-white border border-white/20 rounded-2xl font-bold text-lg hover:bg-white/20 transition-all duration-300 hover:scale-105"
+                    >
+                        <FaEnvelope className="text-2xl group-hover/email:-translate-y-1 transition-transform" />
+                        {t({ en: "Contact via Email", id: "Hubungi via Email" })}
                     </a>
                 </div>
 
